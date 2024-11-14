@@ -1,7 +1,9 @@
 ---
-description: RogerPad - Launch Safely, Raise Affordably
+description: LAUNCH SAFELY, RAISE AFFORDABLY
 ---
 
-# 💹 ROGERPAD
+# 🟩 SOLANA Chain
 
-<figure><img src=".gitbook/assets/EVM FRONT .png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/SOLANA CHAIN FRONT.png" alt=""><figcaption><p>SOLANA Chain</p></figcaption></figure>

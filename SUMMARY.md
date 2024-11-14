@@ -1,196 +1,155 @@
 # Table of contents
 
-## ROGERPAD
+## SOLANA CHAIN
 
-* [💹 ROGERPAD](README.md)
-  * [About Us](rogerpad/rogerpad/about-us.md)
-  * [Contact Us](rogerpad/rogerpad/contact-us.md)
-  * [Vision](rogerpad/rogerpad/vision.md)
-  * [Mission](rogerpad/rogerpad/mission.md)
-  * [#Why\_RogerPad](rogerpad/rogerpad/why\_rogerpad/README.md)
-    * [For DEVELEOPERS](rogerpad/rogerpad/why\_rogerpad/for-develeopers.md)
-    * [For INVESTORS](rogerpad/rogerpad/why\_rogerpad/for-investors.md)
-  * [Legal Disclaimer](rogerpad/rogerpad/legal-disclaimer.md)
-  * [Privacy Policy](rogerpad/rogerpad/privacy-policy.md)
+* [🟩 SOLANA Chain](README.md)
+  * [Introduction to Solana Chain](solana-chain/solana-chain/introduction-to-solana-chain.md)
+  * [Identifying the Need for ROGER PAD](solana-chain/solana-chain/identifying-the-need-for-roger-pad.md)
+  * [Our Suggestions](solana-chain/solana-chain/our-suggestions.md)
+  * [Our Offer to you](solana-chain/solana-chain/our-offer-to-you.md)
+  * [ROGER PAD DETAILS](solana-chain/solana-chain/roger-pad-details/README.md)
+    * [Benefits of RogerPad](solana-chain/solana-chain/roger-pad-details/benefits-of-rogerpad.md)
+    * [RogerPad's Components](solana-chain/solana-chain/roger-pad-details/rogerpads-components/README.md)
+      * [RogerGenesis](solana-chain/solana-chain/roger-pad-details/rogerpads-components/rogergenesis/README.md)
+        * [Contract Types](solana-chain/solana-chain/roger-pad-details/rogerpads-components/rogergenesis/contract-types.md)
+      * [RogerPad](solana-chain/solana-chain/roger-pad-details/rogerpads-components/rogerpad.md)
+      * [Roger Guard](solana-chain/solana-chain/roger-pad-details/rogerpads-components/roger-guard.md)
+    * [Sales Categories](solana-chain/solana-chain/roger-pad-details/sales-categories/README.md)
+      * [Presale](solana-chain/solana-chain/roger-pad-details/sales-categories/presale.md)
+      * [Fair Launch](solana-chain/solana-chain/roger-pad-details/sales-categories/fair-launch.md)
+      * [Whiz Launch](solana-chain/solana-chain/roger-pad-details/sales-categories/whiz-launch.md)
+      * [Tier Launch](solana-chain/solana-chain/roger-pad-details/sales-categories/tier-launch.md)
+    * [Type of Sales](solana-chain/solana-chain/roger-pad-details/type-of-sales/README.md)
+      * [Conventional Launch](solana-chain/solana-chain/roger-pad-details/type-of-sales/conventional-launch.md)
+      * [Dynamic Launch](solana-chain/solana-chain/roger-pad-details/type-of-sales/dynamic-launch.md)
+      * [Custom Launch](solana-chain/solana-chain/roger-pad-details/type-of-sales/custom-launch.md)
+      * [Stealth Launch](solana-chain/solana-chain/roger-pad-details/type-of-sales/stealth-launch.md)
+    * [PreSale Models](solana-chain/solana-chain/roger-pad-details/presale-models/README.md)
+      * [Public Sale](solana-chain/solana-chain/roger-pad-details/presale-models/public-sale.md)
+      * [Whitelist](solana-chain/solana-chain/roger-pad-details/presale-models/whitelist.md)
+      * [Tiered Whitelist](solana-chain/solana-chain/roger-pad-details/presale-models/tiered-whitelist.md)
+    * [Varied Sales Options](solana-chain/solana-chain/roger-pad-details/varied-sales-options/README.md)
+      * [Bonus Sales Program](solana-chain/solana-chain/roger-pad-details/varied-sales-options/bonus-sales-program.md)
+      * [Affiliate Program](solana-chain/solana-chain/roger-pad-details/varied-sales-options/affiliate-program/README.md)
+        * [Affiliate Rewards Explained](solana-chain/solana-chain/roger-pad-details/varied-sales-options/affiliate-program/affiliate-rewards-explained.md)
+      * [BuyBack Program](solana-chain/solana-chain/roger-pad-details/varied-sales-options/buyback-program.md)
+      * [Min/Max Buy](solana-chain/solana-chain/roger-pad-details/varied-sales-options/min-max-buy.md)
+      * [MAX Per Transaction](solana-chain/solana-chain/roger-pad-details/varied-sales-options/max-per-transaction.md)
+      * [LP Creation](solana-chain/solana-chain/roger-pad-details/varied-sales-options/lp-creation.md)
+      * [Vesting Program of RogerPad](solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad/README.md)
+        * [The Presale Vesting System](solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad/the-presale-vesting-system.md)
+        * [The Team Vesting System](solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad/the-team-vesting-system.md)
+        * [Vesting/Team Token Claiming](solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad/vesting-team-token-claiming.md)
 
-## LAUNCH PAD
+## ROGER \[ solana]  GENESIS&#x20;
 
-* [▶️ EVM CHAINS](launch-pad/evm-chains.md)
-* [🟩 SOLANA CHAIN](launch-pad/solana-chain.md)
+* [🦄 ROGER \[ solana\] GENESIS](roger-solana-genesis/roger-solana-genesis/README.md)
+  * [Type of Contracts](roger-solana-genesis/roger-solana-genesis/type-of-contracts/README.md)
+    * [Prime Contract](roger-solana-genesis/roger-solana-genesis/type-of-contracts/prime-contract.md)
+    * [Apex Contract](roger-solana-genesis/roger-solana-genesis/type-of-contracts/apex-contract.md)
+  * [Immutable Option](roger-solana-genesis/roger-solana-genesis/immutable-option.md)
+  * [Revoke Mint](roger-solana-genesis/roger-solana-genesis/revoke-mint.md)
+  * [Revoke Freeze](roger-solana-genesis/roger-solana-genesis/revoke-freeze.md)
+  * [LP Creation](roger-solana-genesis/roger-solana-genesis/lp-creation.md)
+  * [OpenBook Market Setup](roger-solana-genesis/roger-solana-genesis/openbook-market-setup.md)
 
-## ROGER ECO SYSTEM
+## ROGER \[solana] GUARD
 
-* [Roger Eco-System](roger-eco-system/roger-eco-system/README.md)
-  * [Roger's Vision](roger-eco-system/roger-eco-system/rogers-vision.md)
-  * [ROGER's Mission](roger-eco-system/roger-eco-system/rogers-mission.md)
-  * [Navigating Beyond Solana](roger-eco-system/roger-eco-system/navigating-beyond-solana.md)
-  * [ROGER Multi-Chain EXPANSION:](roger-eco-system/roger-eco-system/roger-multi-chain-expansion.md)
-  * [IN DEVELOPMENT](roger-eco-system/roger-eco-system/in-development/README.md)
-    * [🟢 RogerPad](roger-eco-system/roger-eco-system/in-development/rogerpad/README.md)
-      * [🟢 Roger Genesis](roger-eco-system/roger-eco-system/in-development/rogerpad/roger-genesis.md)
-      * [🟢 RogerGuard](roger-eco-system/roger-eco-system/in-development/rogerpad/rogerguard.md)
-      * [🟢 Roger Air-Drop](roger-eco-system/roger-eco-system/in-development/rogerpad/roger-air-drop.md)
-      * [🔵 RogerFarm](roger-eco-system/roger-eco-system/in-development/rogerpad/rogerfarm.md)
-      * [🟢 Roger SPL Blaze](roger-eco-system/roger-eco-system/in-development/rogerpad/roger-spl-blaze.md)
-    * [🟢 Roger FOMO Bot](roger-eco-system/roger-eco-system/in-development/roger-fomo-bot.md)
-    * [🟢 Roger NFT](roger-eco-system/roger-eco-system/in-development/roger-nft.md)
-    * [🔵 RogerSwap](roger-eco-system/roger-eco-system/in-development/rogerswap.md)
-    * [🔵 Roger Wallet](roger-eco-system/roger-eco-system/in-development/roger-wallet.md)
-    * [🔵 Roger Vault](roger-eco-system/roger-eco-system/in-development/roger-vault.md)
-    * [🔵 Roger View](roger-eco-system/roger-eco-system/in-development/roger-view.md)
-    * [🔵 Roger DEX](roger-eco-system/roger-eco-system/in-development/roger-dex.md)
-    * [🔵 Roger Stat](roger-eco-system/roger-eco-system/in-development/roger-stat.md)
-    * [🔵 Roger X](roger-eco-system/roger-eco-system/in-development/roger-x.md)
+* [🛅 ROGER \[solana\] GUARD](roger-solana-guard/roger-solana-guard/README.md)
+  * [Introduction](roger-solana-guard/roger-solana-guard/introduction.md)
+  * [High Lights of RogerGuard](roger-solana-guard/roger-solana-guard/high-lights-of-rogerguard.md)
+  * [LP/Token Claiming](roger-solana-guard/roger-solana-guard/lp-token-claiming.md)
+  * [Renounce ownership of a lock](roger-solana-guard/roger-solana-guard/renounce-ownership-of-a-lock.md)
+  * [Transfer Lock Ownership](roger-solana-guard/roger-solana-guard/transfer-lock-ownership.md)
 
-## RogerFOMOBot
+## AMM - OPEN BOOK MARKET&#x20;
 
-* [RogerFOMOBot](rogerfomobot/rogerfomobot/README.md)
-  * [Disclaimer](rogerfomobot/rogerfomobot/disclaimer.md)
-  * [Get Started](rogerfomobot/rogerfomobot/get-started.md)
+* [🔻 OPEN BOOK MARKET](amm-open-book-market/open-book-market/README.md)
+  * [Introduction: OpenBook Market](amm-open-book-market/open-book-market/introduction-openbook-market.md)
+  * [Cost Vs Quality](amm-open-book-market/open-book-market/cost-vs-quality/README.md)
+    * [Cutting Costs, Compromising Quality](amm-open-book-market/open-book-market/cost-vs-quality/cutting-costs-compromising-quality.md)
+  * [Create OpenBook Market](amm-open-book-market/open-book-market/create-openbook-market.md)
+  * [Tick Size Vs. Min Order](amm-open-book-market/open-book-market/tick-size-vs.-min-order.md)
+  * [OpenBook Market Alt Choices](amm-open-book-market/open-book-market/openbook-market-alt-choices.md)
+  * [Summary](amm-open-book-market/open-book-market/summary.md)
 
-## ROGER NFT
+## 🟧 STEP 1:  CREATING A TOKEN
 
-* [ROGER NFT](roger-nft/roger-nft/README.md)
-  * [Why Own a Roger NFT?](roger-nft/roger-nft/why-own-a-roger-nft.md)
-  * [FEATURES](roger-nft/roger-nft/features.md)
-  * [USE CASES](roger-nft/roger-nft/use-cases.md)
-  * [ROGER NFT Innovation:](roger-nft/roger-nft/roger-nft-innovation.md)
-  * [SUPPLY AND PRICING](roger-nft/roger-nft/supply-and-pricing.md)
+* [1️ Minting a Token](step-1-creating-a-token/minting-a-token/README.md)
+  * [🔵 SPL 2020 (Prime Token)](step-1-creating-a-token/minting-a-token/spl-2020-prime-token.md)
+  * [🟢 SPL 2022 (Apex Token)](step-1-creating-a-token/minting-a-token/spl-2022-apex-token.md)
+  * [Approve & Pay:](step-1-creating-a-token/minting-a-token/approve-and-pay.md)
 
-## PARTNERS
+## 🟦 STEP 2: CREATING A POOL
 
-* [Marketing Partners](partners/marketing-partners/README.md)
-  * [Be a Verified Partner](partners/marketing-partners/be-a-verified-partner/README.md)
-    * [Process to be Verified](partners/marketing-partners/be-a-verified-partner/process-to-be-verified.md)
-    * [Disclaimer](partners/marketing-partners/be-a-verified-partner/disclaimer.md)
-  * [Diamond Ranked Callers](partners/marketing-partners/diamond-ranked-callers.md)
-  * [Tier 1 Premium](partners/marketing-partners/tier-1-premium.md)
-  * [Tier 2A Callers](partners/marketing-partners/tier-2a-callers.md)
-  * [Tier 2 B Callers](partners/marketing-partners/tier-2-b-callers.md)
-* [Service Providers](partners/service-providers/README.md)
-  * [KYC Partners](partners/service-providers/kyc-partners.md)
-  * [AUDIT Partners](partners/service-providers/audit-partners.md)
-  * [CEX Listing Partners](partners/service-providers/cex-listing-partners.md)
-* [BDM](partners/bdm/README.md)
-  * [Verified Listing Managers](partners/bdm/verified-listing-managers.md)
-* [Project Partners](partners/project-partners.md)
-* [Listed Marketers](partners/listed-marketers.md)
+* [2️ Creating a Pool](step-2-creating-a-pool/creating-a-pool/README.md)
+  * [🏴 General Information](step-2-creating-a-pool/creating-a-pool/general-information/README.md)
+    * [Navigating Token Raise Sale Planning](step-2-creating-a-pool/creating-a-pool/general-information/navigating-token-raise-sale-planning.md)
+    * [Explanations](step-2-creating-a-pool/creating-a-pool/general-information/explanations/README.md)
+      * [Presale Rate](step-2-creating-a-pool/creating-a-pool/general-information/explanations/presale-rate.md)
+      * [Dex Listing Rate](step-2-creating-a-pool/creating-a-pool/general-information/explanations/dex-listing-rate.md)
+      * [Dex Liquidity (%)](step-2-creating-a-pool/creating-a-pool/general-information/explanations/dex-liquidity.md)
+      * [Liquidity Lock (Days)](step-2-creating-a-pool/creating-a-pool/general-information/explanations/liquidity-lock-days.md)
+      * [Soft Cap](step-2-creating-a-pool/creating-a-pool/general-information/explanations/soft-cap.md)
+      * [Hard Cap](step-2-creating-a-pool/creating-a-pool/general-information/explanations/hard-cap.md)
+  * [🎚️ PreSale Calculator](step-2-creating-a-pool/creating-a-pool/presale-calculator.md)
+  * [✅ P R E S A L E Setting Up](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/README.md)
+    * [BASIC STEPS for setting up a Pool](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/README.md)
+      * [General Information](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/general-information.md)
+      * [Sale Details](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/sale-details.md)
+      * [Sale Options](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/sale-options.md)
+      * [Social Media & Project Details](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/social-media-and-project-details.md)
+      * [Review and Create Sale](step-2-creating-a-pool/creating-a-pool/p-r-e-s-a-l-e-setting-up/basic-steps-for-setting-up-a-pool/review-and-create-sale.md)
+  * [✳️ F A I R L A U N C H Setting Up](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/README.md)
+    * [BASIC STEPS for setting up a Pool](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/README.md)
+      * [General Information](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/general-information.md)
+      * [Sale Details](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/sale-details.md)
+      * [Sale Options](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/sale-options.md)
+      * [Social Media & Project Details](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/social-media-and-project-details.md)
+      * [Review and Create Sale](step-2-creating-a-pool/creating-a-pool/f-a-i-r-l-a-u-n-c-h-setting-up/basic-steps-for-setting-up-a-pool/review-and-create-sale.md)
 
-## SRVICE FEES
+## ➡️ POST CREATING POOL
 
-* [💲 Service Fees](srvice-fees/service-fees.md)
+* [Step 2.a | Token Locking](post-creating-pool/step-2.a-or-token-locking/README.md)
+  * [LP/Token Locking](post-creating-pool/step-2.a-or-token-locking/lp-token-locking.md)
+* [Step 2.b | Vesting Tokens](post-creating-pool/step-2.b-or-vesting-tokens/README.md)
+  * [Vesting Lock](post-creating-pool/step-2.b-or-vesting-tokens/vesting-lock.md)
+* [Step 2.c | Badges and Rankings](post-creating-pool/step-2.c-or-badges-and-rankings/README.md)
+  * [Badges](post-creating-pool/step-2.c-or-badges-and-rankings/badges/README.md)
+    * [KYC Badge](post-creating-pool/step-2.c-or-badges-and-rankings/badges/kyc-badge.md)
+    * [AUDIT Badge](post-creating-pool/step-2.c-or-badges-and-rankings/badges/audit-badge.md)
+    * [BASED Badge](post-creating-pool/step-2.c-or-badges-and-rankings/badges/based-badge.md)
+    * [DOXX Badge](post-creating-pool/step-2.c-or-badges-and-rankings/badges/doxx-badge.md)
+    * [SAFU Badge](post-creating-pool/step-2.c-or-badges-and-rankings/badges/safu-badge.md)
+  * [Project Rankings](post-creating-pool/step-2.c-or-badges-and-rankings/project-rankings/README.md)
+    * [Silver Rank](post-creating-pool/step-2.c-or-badges-and-rankings/project-rankings/silver-rank.md)
+    * [Gold Rank](post-creating-pool/step-2.c-or-badges-and-rankings/project-rankings/gold-rank.md)
+    * [Platinum Rank](post-creating-pool/step-2.c-or-badges-and-rankings/project-rankings/platinum-rank.md)
+    * [Diamond Rank](post-creating-pool/step-2.c-or-badges-and-rankings/project-rankings/diamond-rank.md)
 
-## ROADMAP
+## 🟪 STEP 3: FINALIZE AND LAUNCH
 
-* [🛣️ RoadMap](roadmap/roadmap/README.md)
-  * [Preface](roadmap/roadmap/preface/README.md)
-    * [Phase 1](roadmap/roadmap/preface/phase-1.md)
-    * [Phase 2](roadmap/roadmap/preface/phase-2.md)
-    * [Phase 3](roadmap/roadmap/preface/phase-3.md)
-    * [Phase 4](roadmap/roadmap/preface/phase-4.md)
-    * [Phase 5](roadmap/roadmap/preface/phase-5.md)
-    * [Phase 6](roadmap/roadmap/preface/phase-6.md)
-    * [Phase 7](roadmap/roadmap/preface/phase-7.md)
-    * [Phase 8](roadmap/roadmap/preface/phase-8.md)
-    * [Phase 9](roadmap/roadmap/preface/phase-9.md)
-    * [Phase 10](roadmap/roadmap/preface/phase-10.md)
-  * [$UNNAMED (meme) Token](roadmap/roadmap/usdunnamed-meme-token/README.md)
-    * [Upcoming Events](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/README.md)
-      * [Tokenomics](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/tokenomics.md)
-      * [Ensuring Chart Stability](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/ensuring-chart-stability.md)
-      * [Holder Retention](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/holder-retention.md)
-      * [AGGRESSIVE MARKETING](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/aggressive-marketing.md)
-      * [Social Media](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/social-media.md)
-      * [Powering Success](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/powering-success.md)
+* [3️ Finalize | Claim | Launch](step-3-finalize-and-launch/finalize-or-claim-or-launch/README.md)
+  * [Step 3 Finalizing Sale](step-3-finalize-and-launch/finalize-or-claim-or-launch/step-3-finalizing-sale.md)
+  * [3.1 | OpenBook Market](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.1-or-openbook-market/README.md)
+    * [Create OpenBook Market](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.1-or-openbook-market/create-openbook-market.md)
+  * [3.2 | Finalizing Pool](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.2-or-finalizing-pool.md)
+  * [3.3 | Cancelling a Pool](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.3-or-cancelling-a-pool.md)
+  * [3.4 | LP Creation & Launch](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.4-or-lp-creation-and-launch.md)
+  * [3.5 | Token Claim](step-3-finalize-and-launch/finalize-or-claim-or-launch/3.5-or-token-claim.md)
 
-## SUPPORT
+## ROGER\[solana] AIRDROP
 
-* [🛂 SUPPORT INFO](support/support-info.md)
+* [MULTI-SENDER \[SOLANA\]  SYSTEM](roger-solana-airdrop/multi-sender-solana-system/README.md)
+  * [Introduction](roger-solana-airdrop/multi-sender-solana-system/introduction.md)
+  * [Steps to Create a Roger AirDrop](roger-solana-airdrop/multi-sender-solana-system/steps-to-create-a-roger-airdrop/README.md)
+    * [Use Roger AirDrop](roger-solana-airdrop/multi-sender-solana-system/steps-to-create-a-roger-airdrop/use-roger-airdrop.md)
+    * [Cost of Using Roger AIRDROP](roger-solana-airdrop/multi-sender-solana-system/steps-to-create-a-roger-airdrop/cost-of-using-roger-airdrop.md)
 
-## ROGER CLUBS
+## INVESTOR'S \[solana] CORNER
 
-* [ROGER CLUBS](roger-clubs/roger-clubs.md)
-
-## RANKINGS
-
-* [♨️ RANKINGS](rankings/rankings/README.md)
-  * [Dev Ranking](rankings/rankings/dev-ranking/README.md)
-    * [PROJECT RANKINGS](rankings/rankings/dev-ranking/project-rankings.md)
-    * [Rules to Follow](rankings/rankings/dev-ranking/rules-to-follow.md)
-  * [Investor Ranking](rankings/rankings/investor-ranking/README.md)
-    * [Guiding Principles](rankings/rankings/investor-ranking/guiding-principles.md)
-    * [Silver Ranking](rankings/rankings/investor-ranking/silver-ranking.md)
-    * [Gold Ranking](rankings/rankings/investor-ranking/gold-ranking.md)
-    * [Platinum Ranking](rankings/rankings/investor-ranking/platinum-ranking.md)
-    * [Diamond Ranking](rankings/rankings/investor-ranking/diamond-ranking.md)
-
-## BADGES
-
-* [📛 BADGES](badges/badges/README.md)
-  * [KYC Badge](badges/badges/kyc-badge.md)
-  * [Audit Badge](badges/badges/audit-badge.md)
-  * [Based Badge](badges/badges/based-badge.md)
-  * [DOXX Badge](badges/badges/doxx-badge.md)
-  * [SAFU Badge](badges/badges/safu-badge.md)
-
-## DEVLEOPERS CORNER
-
-* [Unlock Your Project's Potential](devleopers-corner/unlock-your-projects-potential.md)
-* [Why Rogerpad?](devleopers-corner/why-rogerpad.md)
-* [Work Flow Diagram](devleopers-corner/work-flow-diagram.md)
-* [FLOW CHAT](devleopers-corner/flow-chat.md)
-* [Sales Categories](devleopers-corner/sales-categories/README.md)
-  * [PreSale](devleopers-corner/sales-categories/presale.md)
-  * [Fair Launch](devleopers-corner/sales-categories/fair-launch.md)
-  * [Whiz Launch](devleopers-corner/sales-categories/whiz-launch.md)
-  * [Tier PreSale Launch](devleopers-corner/sales-categories/tier-presale-launch.md)
-* [Type of Sales](devleopers-corner/type-of-sales/README.md)
-  * [Conventional Launch](devleopers-corner/type-of-sales/conventional-launch.md)
-  * [Dynamic Launch](devleopers-corner/type-of-sales/dynamic-launch.md)
-  * [Custom Launch](devleopers-corner/type-of-sales/custom-launch.md)
-  * [Stealth Launch](devleopers-corner/type-of-sales/stealth-launch.md)
-* [PreSale Models](devleopers-corner/presale-models/README.md)
-  * [Public Sale](devleopers-corner/presale-models/public-sale.md)
-  * [Whitelist](devleopers-corner/presale-models/whitelist.md)
-  * [Tiered Whitelist](devleopers-corner/presale-models/tiered-whitelist.md)
-* [Sales Options](devleopers-corner/sales-options/README.md)
-  * [Bonus Sales Program](devleopers-corner/sales-options/bonus-sales-program.md)
-  * [Affiliate Program](devleopers-corner/sales-options/affiliate-program/README.md)
-    * [Affiliate Rewards Explained](devleopers-corner/sales-options/affiliate-program/affiliate-rewards-explained.md)
-  * [Buy Back & Burn Program](devleopers-corner/sales-options/buy-back-and-burn-program.md)
-  * [Sales Vesting Program](devleopers-corner/sales-options/sales-vesting-program.md)
-* [ADD ON SERVICES](devleopers-corner/add-on-services.md)
-* [Trending Services](devleopers-corner/trending-services/README.md)
-  * [Organic Trending](devleopers-corner/trending-services/organic-trending.md)
-  * [Paid Trending](devleopers-corner/trending-services/paid-trending.md)
-
-## INVESTORS' CORNER
-
-* [INVESTOR'S CORNER](investors-corner/investors-corner.md)
-* [Trending](investors-corner/trending.md)
-
-## PARTNER'S CORNER
-
-* [PARTNER'S CORNER](partners-corner/partners-corner.md)
-
-## HELP CENTER
-
-* [PreSale Calculator](help-center/presale-calculator.md)
-
-## PURRPAWS | PAWS COMBAT
-
-* [PurrPaws](purrpaws-or-paws-combat/purrpaws.md)
-
-## CAREERS
-
-* [Welcome](careers/welcome.md)
-* [Why you should join Roger Ecosystems](careers/why-you-should-join-roger-ecosystems.md)
-* [COMMUNITY MANAGER](careers/community-manager/README.md)
-  * [Basic Qualifications for Community Manager:](careers/community-manager/basic-qualifications-for-community-manager.md)
-  * [Are you ready to Dominate?](careers/community-manager/are-you-ready-to-dominate.md)
-* [BDM](careers/bdm/README.md)
-  * [Token Launch Specialist for RogerPad](careers/bdm/token-launch-specialist-for-rogerpad.md)
-  * [PawsCombat Advertising Program](careers/bdm/pawscombat-advertising-program.md)
-  * [VERIFY A BDM](careers/bdm/verify-a-bdm/README.md)
-    * [Verified BDM](careers/bdm/verify-a-bdm/verified-bdm.md)
-* [Shillers](careers/shillers.md)
+* [How to Participate in a PreSale](investors-solana-corner/how-to-participate-in-a-presale.md)
+* [Affiliate Program](investors-solana-corner/affiliate-program.md)
+* [How to Claim your Token](investors-solana-corner/how-to-claim-your-token.md)
+* [Withdrawing your Contribution](investors-solana-corner/withdrawing-your-contribution.md)
+* [Emergency Withdrawal](investors-solana-corner/emergency-withdrawal.md)

@@ -1,0 +1,3 @@
+# Revoke Mint
+
+Revoking mint authority is a critical step in instilling confidence and success within a token ecosystem. When mint authority is revoked, it signifies a commitment to token scarcity and investor trust. Essentially, this action prevents any further minting of the token supply, ensuring that the existing token supply remains fixed and immutable. By implementing this measure, investors are assured of the token's scarcity and value preservation, enhancing their confidence in the project's long-term viability. This security measure not only safeguards investor interests but also contributes to the token's overall success and market credibility.
