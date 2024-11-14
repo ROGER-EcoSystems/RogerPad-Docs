@@ -1,7 +1,8 @@
 ---
-description: RogerPad - Launch Safely, Raise Affordably
+description: Launch Safely. Raise Affordably
 ---
 
-# 💹 ROGERPAD
+# ▶️ ROGER PAD - EVM Chains
 
-<figure><img src=".gitbook/assets/EVM FRONT .png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/WELCOME TO EVM CHAIN.png" alt=""><figcaption><p>ROGERPAD.FINANCE</p></figcaption></figure>
+
