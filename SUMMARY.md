@@ -63,7 +63,7 @@
   * [Be a Verified Partner](partners/marketing-partners/be-a-verified-partner/README.md)
     * [Process to be Verified](partners/marketing-partners/be-a-verified-partner/process-to-be-verified.md)
     * [Disclaimer](partners/marketing-partners/be-a-verified-partner/disclaimer.md)
-  * [Diamond Ranked Callers](partners/marketing-partners/diamond-ranked-callers.md)
+  * [Platinum Ranked Callers](partners/marketing-partners/platinum-ranked-callers.md)
   * [Tier 1 Premium](partners/marketing-partners/tier-1-premium.md)
   * [Tier 2A Callers](partners/marketing-partners/tier-2a-callers.md)
   * [Tier 2 B Callers](partners/marketing-partners/tier-2-b-callers.md)

@@ -1,3 +1,0 @@
-# Diamond Ranked Callers
-
-##
