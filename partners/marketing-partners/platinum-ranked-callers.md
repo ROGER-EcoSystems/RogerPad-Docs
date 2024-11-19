@@ -8,6 +8,10 @@
 
 BULLISH MARKET CAP
 
+
+
+<figure><img src="../../.gitbook/assets/IMAGE 2024-11-19 123008.jpeg" alt="" width="160"><figcaption><p><a href="https://t.me/jofrey_BMC">https://t.me/jofrey_BMC</a></p></figcaption></figure>
+
 Main Chat: [https://t.me/BullishMarktCap](https://t.me/BullishMarktCap)
 
 Main Twitter: [https://x.com/BullishMarktCap](https://x.com/BullishMarktCap)
