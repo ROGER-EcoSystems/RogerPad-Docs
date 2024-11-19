@@ -240,13 +240,6 @@ PLEASE CLICK THE LINK TO GO TO "[VERIFIED PARTNERS](marketing-partners/be-a-veri
     Lounge:[@cryptowolvescalls](https://t.me/cryptowolvescalls)
 
     Contact: [@Mr\_unique9](https://t.me/Mr\_unique9)
-*   CAPRI CALLS
-
-    Main: [https://t.me/CapriCalls](https://t.me/CapriCalls).  &#x20;
-
-    &#x20;Chat: [https://t.me/CapriCall](https://t.me/CapriCall)
-
-    Contact: [@Jones\_Parker1](https://t.me/Jones\_Parker1)
 *   GOKU CALLS
 
     Main: [https://t.me/GokuCryptoCalls](https://t.me/GokuCryptoCalls)
