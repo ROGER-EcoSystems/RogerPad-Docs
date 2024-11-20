@@ -25,4 +25,4 @@ These callers have done a tremendous job supporting our launchpad, and we highly
 
 
 
-We have included a diverse array of call partners on our platform. While these marketers have been around us and are either in the process of being verified or have not yet achieved verified status, we do not officially endorse or recommend them. We encourage you to conduct your own research (DYOR) before hiring any of these listed marketers to ensure they meet your project's specific needs and standards. [Callers Listed](../listed-marketers.md)
+We have included a diverse array of call partners on our platform. While these marketers have been around us and are either in the process of being verified or have not yet achieved verified status, we do not officially endorse or recommend them. We encourage you to conduct your own research (DYOR) before hiring any of these listed marketers to ensure they meet your project's specific needs and standards. [Callers Listed](listed-marketers.md)

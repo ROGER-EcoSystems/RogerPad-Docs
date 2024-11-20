@@ -4,7 +4,7 @@ description: NOT VERIFIED
 
 # Listed Marketers
 
-PLEASE CLICK THE LINK TO GO TO "[VERIFIED PARTNERS](marketing-partners/be-a-verified-partner/)"
+PLEASE CLICK THE LINK TO GO TO "[VERIFIED PARTNERS](be-a-verified-partner/)"
 
 *   ELITE CRYPTO LOUNGE
 

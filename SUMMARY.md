@@ -72,10 +72,10 @@
     * [KYC Partners](partners/marketing-partners/service-providers/kyc-partners.md)
     * [AUDIT Partners](partners/marketing-partners/service-providers/audit-partners.md)
     * [CEX Listing Partners](partners/marketing-partners/service-providers/cex-listing-partners.md)
+  * [Listed Marketers](partners/marketing-partners/listed-marketers.md)
 * [BDM](partners/bdm/README.md)
   * [Verified Listing Managers](partners/bdm/verified-listing-managers.md)
 * [Project Partners](partners/project-partners.md)
-* [Listed Marketers](partners/listed-marketers.md)
 
 ## SRVICE FEES
 
