@@ -44,7 +44,7 @@ To be eligible for the Platinum Ranking tier, holders must maintain a minimum of
 
 #### Diamond Ranking
 
-To qualify for the Diamond Ranking tier, holders must maintain a minimum of 10 SOL worth of  Roger Proposed Tokens and own at least two Roger NFTs. [Read More....](../../../partners/marketing-partners/platinum-ranked-callers.md)
+To qualify for the Diamond Ranking tier, holders must maintain a minimum of 10 SOL worth of  Roger Proposed Tokens and own at least two Roger NFTs. [Read More....](../../../partners/marketing-partners/verified-marketers/platinum-ranked-callers.md)
 
 #### Alpha Club
 
