@@ -95,14 +95,14 @@
     * [Phase 8](roadmap/roadmap/preface/phase-8.md)
     * [Phase 9](roadmap/roadmap/preface/phase-9.md)
     * [Phase 10](roadmap/roadmap/preface/phase-10.md)
-  * [$UNNAMED (meme) Token](roadmap/roadmap/usdunnamed-meme-token/README.md)
-    * [Upcoming Events](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/README.md)
-      * [Tokenomics](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/tokenomics.md)
-      * [Ensuring Chart Stability](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/ensuring-chart-stability.md)
-      * [Holder Retention](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/holder-retention.md)
-      * [AGGRESSIVE MARKETING](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/aggressive-marketing.md)
-      * [Social Media](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/social-media.md)
-      * [Powering Success](roadmap/roadmap/usdunnamed-meme-token/upcoming-events/powering-success.md)
+  * [$PPAWS (meme) Token](roadmap/roadmap/usdppaws-meme-token/README.md)
+    * [Upcoming Events](roadmap/roadmap/usdppaws-meme-token/upcoming-events/README.md)
+      * [Tokenomics](roadmap/roadmap/usdppaws-meme-token/upcoming-events/tokenomics.md)
+      * [Ensuring Chart Stability](roadmap/roadmap/usdppaws-meme-token/upcoming-events/ensuring-chart-stability.md)
+      * [Holder Retention](roadmap/roadmap/usdppaws-meme-token/upcoming-events/holder-retention.md)
+      * [AGGRESSIVE MARKETING](roadmap/roadmap/usdppaws-meme-token/upcoming-events/aggressive-marketing.md)
+      * [Social Media](roadmap/roadmap/usdppaws-meme-token/upcoming-events/social-media.md)
+      * [Powering Success](roadmap/roadmap/usdppaws-meme-token/upcoming-events/powering-success.md)
 
 ## SUPPORT
 
