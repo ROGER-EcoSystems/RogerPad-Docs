@@ -8,7 +8,7 @@
   * [Vision](rogerpad/rogerpad/vision.md)
   * [Mission](rogerpad/rogerpad/mission.md)
   * [#Why\_RogerPad](rogerpad/rogerpad/why\_rogerpad/README.md)
-    * [For DEVELEOPERS](rogerpad/rogerpad/why\_rogerpad/for-develeopers.md)
+    * [For DEVELOPERS](rogerpad/rogerpad/why\_rogerpad/for-developers.md)
     * [For INVESTORS](rogerpad/rogerpad/why\_rogerpad/for-investors.md)
   * [Legal Disclaimer](rogerpad/rogerpad/legal-disclaimer.md)
   * [Privacy Policy](rogerpad/rogerpad/privacy-policy.md)
