@@ -2,7 +2,7 @@
 
 ## Verified Callers in #Diamond Rank
 
-<figure><img src="../../../.gitbook/assets/5.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **ELITE CRYPTO LOUNGE**
 
