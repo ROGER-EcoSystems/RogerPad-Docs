@@ -1,2 +1,0 @@
-# ROGER CLUBS
-

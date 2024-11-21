@@ -111,7 +111,10 @@
 
 ## ROGER CLUBS
 
-* [ROGER CLUBS](roger-clubs/roger-clubs.md)
+* [Alpha Presidential Club](roger-clubs/alpha-presidential-club/README.md)
+  * [Exclusive Benefits for Members](roger-clubs/alpha-presidential-club/exclusive-benefits-for-members.md)
+  * [Membership Requirements](roger-clubs/alpha-presidential-club/membership-requirements.md)
+  * [The Alpha Advantage](roger-clubs/alpha-presidential-club/the-alpha-advantage.md)
 
 ## RANKINGS
 
