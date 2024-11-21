@@ -2,9 +2,7 @@
 description: RogerPad - Launch Safely, Raise Affordbaly
 ---
 
-# About Us
-
-RogerPad is a cutting-edge launchpad committed to our core philosophy encapsulated in our tagline: "Launch Safely and Raise Affordably." We aim to streamline the token launch process while ensuring security and cost-effectiveness for our users.
+# Chains Served
 
 ### <mark style="color:blue;">Chains Serviced - PHASE 1</mark>
 

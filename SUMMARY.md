@@ -3,7 +3,7 @@
 ## ROGERPAD
 
 * [💹 ROGERPAD](README.md)
-  * [About Us](rogerpad/rogerpad/about-us.md)
+  * [Chains Served](rogerpad/rogerpad/chains-served.md)
   * [Contact Us](rogerpad/rogerpad/contact-us.md)
   * [Vision](rogerpad/rogerpad/vision.md)
   * [Mission](rogerpad/rogerpad/mission.md)
