@@ -61,6 +61,7 @@
 
 * [Marketing Partners](partners/marketing-partners/README.md)
   * [Verified Marketers](partners/marketing-partners/verified-marketers/README.md)
+    * [Diamond Ranked Callers](partners/marketing-partners/verified-marketers/diamond-ranked-callers.md)
     * [Platinum Ranked Callers](partners/marketing-partners/verified-marketers/platinum-ranked-callers.md)
     * [Tier 1 Premium](partners/marketing-partners/verified-marketers/tier-1-premium.md)
     * [Tier 2 B Callers](partners/marketing-partners/verified-marketers/tier-2-b-callers.md)

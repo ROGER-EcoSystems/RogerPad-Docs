@@ -1,6 +1,6 @@
 # Diamond Ranking
 
-<figure><img src="../../../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Attaining the distinguished Diamond Ranking tier within the Roger ecosystem represents the epitome of commitment and involvement. This esteemed tier is reserved for individuals who demonstrate an exceptional level of dedication and investment in the ecosystem's advancement and prosperity.
 
