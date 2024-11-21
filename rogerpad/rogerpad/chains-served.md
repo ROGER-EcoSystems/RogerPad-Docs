@@ -6,9 +6,13 @@ description: RogerPad - Launch Safely, Raise Affordbaly
 
 ### <mark style="color:blue;">Chains Serviced - PHASE 1</mark>
 
-<figure><img src="../../.gitbook/assets/ALL CHAINS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CHAINS SERVED.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Initial Focus and Chain Support
+### Initial Focus and Chain Support
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>ETHEREUM</td><td></td><td><a href="../../.gitbook/assets/Ethereum.webp">Ethereum.webp</a></td></tr><tr><td></td><td>BASE</td><td></td><td><a href="../../.gitbook/assets/download.jpeg">download.jpeg</a></td></tr><tr><td></td><td>BSC</td><td></td><td><a href="../../.gitbook/assets/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.webp">binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.webp</a></td></tr><tr><td></td><td>POLYGON</td><td></td><td><a href="../../.gitbook/assets/Polygon.webp">Polygon.webp</a></td></tr><tr><td></td><td>SOLANA</td><td></td><td><a href="../../.gitbook/assets/solana-sol-logo-12828AD23D-seeklogo.com.webp">solana-sol-logo-12828AD23D-seeklogo.com.webp</a></td></tr></tbody></table>
 
 Initially, RogerPad will cater to four major EVM (Ethereum Virtual Machine) chains:
 
