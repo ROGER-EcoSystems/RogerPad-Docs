@@ -10,8 +10,6 @@ Main Twitter:                [https://x.com/RogerPad\_Main](https://x.com/RogerP
 
 Dev Network:                [https://t.me/rogerpad\_network](https://t.me/rogerpad\_network)
 
-Pre-Sale Support:        [https://t.me/RogerPd\_Presale\_Support](https://t.me/RogerPd\_Presale\_Support)
-
 Call Channel:                [https://t.me/Roger\_Call](https://t.me/Roger\_Call)
 
 BuyBot Chat:                [https://t.me/FOMO\_Roger](https://t.me/FOMO\_Roger)
@@ -21,8 +19,6 @@ BuyBot Chat:                [https://t.me/FOMO\_Roger](https://t.me/FOMO\_Roger)
 {% hint style="warning" %}
 To see all our social media and communities, please visit [https://social.rogerpad.finance](https://social.rogerpad.finance)
 {% endhint %}
-
-All Social Media Link: [https://social.rogerpad.finance](https://social.rogerpad.finance)
 
 LinkTree: [https://linktr.ee/RogerPad](https://linktr.ee/RogerPad)
 
