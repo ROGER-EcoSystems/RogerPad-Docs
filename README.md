@@ -6,4 +6,4 @@ description: LAUNCH SAFELY, RAISE AFFORDABLY
 
 
 
-<figure><img src=".gitbook/assets/SOLANA CHAIN FRONT.png" alt=""><figcaption><p>SOLANA Chain</p></figcaption></figure>
+<figure><img src=".gitbook/assets/solana-sol-logo-12828AD23D-seeklogo.com.webp" alt=""><figcaption><p>SOLANA Chain</p></figcaption></figure>

@@ -35,7 +35,7 @@ Note:
 * Minimum LP Percentage: A minimum of 51% liquidity provision is recommended, which can be adjusted based on whether a buyback program is enabled.
 {% endhint %}
 
-#### &#x20;**3. **<mark style="color:blue;">**Type of Sales**</mark>
+#### &#x20;**3.&#x20;**<mark style="color:blue;">**Type of Sales**</mark>
 
 &#x20;           [Conventional](../../../../solana-chain/solana-chain/roger-pad-details/type-of-sales/conventional-launch.md) | [Dynamic](../../../../solana-chain/solana-chain/roger-pad-details/type-of-sales/dynamic-launch.md) | [Custom](../../../../solana-chain/solana-chain/roger-pad-details/type-of-sales/custom-launch.md) | [Stealth](../../../../solana-chain/solana-chain/roger-pad-details/type-of-sales/stealth-launch.md)
 
