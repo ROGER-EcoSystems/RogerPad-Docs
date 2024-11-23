@@ -6,7 +6,7 @@ description: RogerPad - Launch Safely, Raise Affordbaly
 
 ### <mark style="color:blue;">Chains Serviced - PHASE 1</mark>
 
-<figure><img src="../../.gitbook/assets/CHAINS SERVED.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ### Initial Focus and Chain Support
 
