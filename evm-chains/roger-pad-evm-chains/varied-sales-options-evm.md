@@ -1,6 +1,14 @@
+---
+description: EVM Chains [Eth | Base | BSC | Polygon]
+---
+
 # Varied Sales Options \[evm]
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-19 at 12.15.46 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-19 at 12.15.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 In this section, we delve into the multifaceted sales options offered by RogerPad, providing a comprehensive overview of each type of token sale available on the platform. From conventional launches to dynamic and stealth options, we uncover the unique features and characteristics associated with each approach, empowering project owners to select the most suitable strategy for their fundraising endeavors. Discover the versatility and innovation inherent in RogerPad's sales options and unlock new possibilities for success in the ever-evolving landscape of decentralized finance.
 
