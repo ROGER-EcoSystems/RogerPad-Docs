@@ -1,14 +1,20 @@
 ---
-description: EVM Chains
+description: EVM Chains [Eth | Base | BSC | Polygon]
 ---
 
 # Sales Categories \[evm]
 
+
+
 Discover a myriad of sale types facilitated by Roger LaunchPad, catering to diverse project needs and preferences. With a commitment to inclusivity and flexibility, our platform accommodates all types of sales, ensuring a seamless launch experience for everyone involved. Explore the details of each sale type below:
+
+
+
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ### Select Sales Category <a href="#presale" id="presale"></a>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-19 at 12.07.19 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SALES CATGORY16X9.png" alt=""><figcaption><p>ROGERPAD.FINANCE</p></figcaption></figure>
 
 ### [PreSale](https://docs.rogerpad.finance/devleopers-corner/sales-categories/presale): <a href="#presale" id="presale"></a>
 

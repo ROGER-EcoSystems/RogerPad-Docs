@@ -1,4 +1,10 @@
+---
+description: LAUNCH SAFELY | RAISE ADFFORDABLY
+---
+
 # Benefits of RogerPad
+
+<figure><img src="../../.gitbook/assets/V2.png" alt="" width="375"><figcaption><p>rogerpad.finance</p></figcaption></figure>
 
 1. **Seamless Token Creation and Presale Launch:** RogerPad simplifies the often intricate process of token creation and presale initiation, offering developers a user-friendly interface to navigate these crucial stages with ease and efficiency.
 2. **Elevated EVM Ecosystem:** By facilitating token creation, RogerPad contributes significantly to the expansion and accessibility of the EVM blockchain ecosystem. This initiative fosters a vibrant environment for innovation and growth within the EVM community, amplifying its prominence in the broader blockchain landscape.
