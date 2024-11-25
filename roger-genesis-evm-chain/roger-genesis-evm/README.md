@@ -29,7 +29,7 @@ Unlock the power to create custom token contracts with the support of a verified
 {% hint style="warning" %}
 #### Important Notice for Project Owners
 
-Project owners are required to use Roger Genesis to create contracts. We provide this service to help you, but you are more than welcome to choose any individual or firm with whom you are comfortable to create your Solidity contract.
+Project owners are requested to use Roger Genesis to create contracts. We provide this service to help you, but you are more than welcome to choose any individual or firm with whom you are comfortable to create your Solidity contract.
 
 This flexibility makes it so that you can proceed with a provider that works best for your needs while still meeting the requirements for using Roger Genesis on our platform.
 {% endhint %}
