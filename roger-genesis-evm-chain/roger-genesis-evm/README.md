@@ -8,6 +8,12 @@ description: Crafting the Future of Tokens
 
 A project owner can create up to three different tokens, Prime Token, PrimeSphere (Reflection/Dividend) Token and PrimeSphere Token.
 
+**Prepare Before Creating a Token Contract**
+
+Before proceeding, ensure you are fully prepared to create the token contract. Use the [Presale Calculator](https://docs.rogerpad.finance/help-center/presale-calculator) to confirm your project's suitability and fit. You’ll need details such as the marketing wallet and liquidity wallet. While these can be edited later, having them ready beforehand simplifies the contract creation process.
+
+Currently, **Prime Tokens with Tax Structures** are readily available. For custom tokens, please contact the development team for assistance.
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-07-18 at 11.52.43 PM.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 1. [**Prime Token**](type-of-contracts/prime-token-evm.md)
