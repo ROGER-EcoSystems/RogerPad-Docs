@@ -4,7 +4,7 @@ description: PreSale
 
 # Sales Category
 
-<figure><img src="../../.gitbook/assets/Create A Pool.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sales Category.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Select the "PreSale" from the Sales Category list.  You can get more details on other type of categories below.

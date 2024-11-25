@@ -29,7 +29,7 @@
 ## 🟪 STEP 2 CREATE A POOL on EVM
 
 * [PreSale](step-2-create-a-pool-on-evm/presale/README.md)
-  * [Intro](step-2-create-a-pool-on-evm/presale/intro.md)
+  * [PreSale](step-2-create-a-pool-on-evm/presale/presale.md)
   * [Sales Category](step-2-create-a-pool-on-evm/presale/sales-category.md)
   * [General Data](step-2-create-a-pool-on-evm/presale/general-data.md)
   * [Sales Data](step-2-create-a-pool-on-evm/presale/sales-data.md)

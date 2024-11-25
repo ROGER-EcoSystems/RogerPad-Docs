@@ -1,10 +1,10 @@
 ---
-description: PreSale
+description: Convetnional | Dynamic | Custom | Stealth
 ---
 
-# Intro
+# PreSale
 
-<figure><img src="../../.gitbook/assets/WELCOME.png" alt=""><figcaption><p>rogerpad.finance </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home.png" alt=""><figcaption><p>rogerpad.finance </p></figcaption></figure>
 
 
 
