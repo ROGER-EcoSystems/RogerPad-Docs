@@ -18,7 +18,7 @@ Discover a myriad of sale types facilitated by Roger LaunchPad, catering to dive
 
 ### [PreSale](https://docs.rogerpad.finance/devleopers-corner/sales-categories/presale): <a href="#presale" id="presale"></a>
 
-RogerPad's presale mechanism provides a structured and secure platform for token launches, featuring clear fundraising goals, liquidity safeguards, and customizable contribution limits to ensure transparency and fairness for all stakeholders. Success is contingent on reaching the Softcap, and fostering collaboration and trust between project owners and investors.
+RogerPad's presale mechanism provides a structured and secure platform for token launches, featuring clear fundraising goals, liquidity safeguards, and customizable contribution limits to ensure transparency and fairness for all stakeholders. Success is contingent on reaching the Softcap, and fostering collaboration and trust between project owners and investors. \[more info] \[create a PreSale Pool]
 
 ### [Fair Launch](https://docs.rogerpad.finance/devleopers-corner/sales-categories/fair-launch): <a href="#fair-launch" id="fair-launch"></a>
 
