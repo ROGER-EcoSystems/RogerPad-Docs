@@ -4,7 +4,7 @@ description: Pre Sale
 
 # Sales Data
 
-<figure><img src="../../.gitbook/assets/PS-2.png" alt=""><figcaption><p>Sales Data - PreSale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Step 3 - Sales Data.png" alt=""><figcaption><p>Sales Data - PreSale</p></figcaption></figure>
 
 *   **SALES DATA:**
 
@@ -20,11 +20,11 @@ description: Pre Sale
 
     5\.     **Dex Listing Rate:** Amount of token per each Base Pair token in opening.
 
-    6\.     **Dex Liquidity (%):** Minimum 51%. If Buy Back & Burn eis nabled, the combined value can be 51%.
+    6\.     **Dex Liquidity (%):** Minimum 51%. If Buy Back & Burn is enabled, the combined value can be 51%.
 
     7\.     **Locked (enter in days).** MInimum 14 days.
 
-    8\.     **Soft Cap:** This is in Pair Token.  Lowest cap of the project. Min.25% of Harc Cap.
+    8\.     **Soft Cap:** This is in Pair Token.  Lowest cap of the project. Min.25% of Hard Cap.
 
     9\.     **Hard Cap:** Maximum amount to be raised in Pair Token.
 
