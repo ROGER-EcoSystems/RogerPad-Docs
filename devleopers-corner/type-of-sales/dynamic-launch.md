@@ -13,3 +13,5 @@ Furthermore, the DYNAMIC Launch option promotes inclusivity and accessibility, d
 Moreover, the inherent adaptability of the EXPAND MORE DYNAMIC Launch option on RogerPad catalyzes continuous improvement and experimentation. Project owners have the freedom to iterate on their sales strategy, adjust token distribution mechanisms, and refine their approach in real time, leveraging the platform's robust infrastructure to navigate the complexities of the digital asset landscape with agility and confidence.
 
 In essence, the DYNAMIC Launch option on RogerPad represents a bold step towards redefining token sales for the digital age. By embracing adaptability, flexibility, and innovation as fundamental principles, stakeholders can unlock new opportunities, drive sustainable growth, and chart a course toward success in the ever-evolving world of decentralized finance.
+
+\[Create a Sales Pool]
