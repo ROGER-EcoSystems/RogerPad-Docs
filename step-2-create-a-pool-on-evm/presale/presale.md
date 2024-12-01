@@ -4,7 +4,7 @@ description: Convetnional | Dynamic | Custom | Stealth
 
 # PreSale
 
-<figure><img src="../../.gitbook/assets/Home.png" alt=""><figcaption><p>rogerpad.finance </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home (1).png" alt=""><figcaption><p>rogerpad.finance </p></figcaption></figure>
 
 ## How to Video:  Creating a Presale Pool&#x20;
 

@@ -8,7 +8,7 @@ Ste 1 | **GENERAL DATA**
 
 In the first step of creating a Raise poll on RogerPad, enter your contract address (or use [Roger Genesis](https://docs.rogerpad.finance/v/rogerpad-evm-chain/roger-genesis-evm-chain/roger-genesis-evm) if you don’t have one), enable Auto LP, and select the type of sales.
 
-<figure><img src="../../.gitbook/assets/PS - 1.png" alt=""><figcaption><p>General Data - Presale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Step 1 - General Data.png" alt=""><figcaption><p>General Data - Presale</p></figcaption></figure>
 
 *   **STATIC EXPLANATIONS**
 

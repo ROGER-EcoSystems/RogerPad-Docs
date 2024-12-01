@@ -8,7 +8,7 @@ Elevating Token Utility and Value
 
 The PrimeSphere Token is a significant upgrade on the traditional reflection token, incorporating advanced features that enhance its utility and value proposition. Designed to provide more benefits to both project owners and token holders, the PrimeSphere Token introduces a burn function and a treasury wallet.
 
-<figure><img src="../../../.gitbook/assets/22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/22 (1).png" alt=""><figcaption></figcaption></figure>
 
 Key Features:
 

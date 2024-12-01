@@ -4,7 +4,7 @@ description: Pre Sale
 
 # Bonus Sale Program
 
-<figure><img src="../../../.gitbook/assets/Bonus Buy (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bonus Buy (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bonus Sales Program
 

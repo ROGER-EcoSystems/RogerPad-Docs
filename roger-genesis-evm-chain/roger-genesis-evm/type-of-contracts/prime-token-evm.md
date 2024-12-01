@@ -6,7 +6,7 @@ description: Empowering Your Crypto Future
 
 Prime Token is designed to offer project owners enhanced flexibility and control compared to a Simple Token. This type of token includes several advanced features that allow for a more tailored approach to managing and promoting your project.
 
-<figure><img src="../../../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/23 (1).png" alt=""><figcaption></figcaption></figure>
 
 Key Features of Prime Token:
 
