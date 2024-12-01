@@ -26,16 +26,16 @@ RogerPad's presale mechanism provides a structured and secure platform for token
 
 RogerPad's Fair Launch embodies transparency and equity, offering a level playing field for all participants. With no Hardcap and timed closure, coupled with liquidity locking and customizable contributions, it ensures fairness, stability, and trust in the token distribution process.
 
-&#x20;[\[more info\]](https://app.gitbook.com/s/DRzgwxbpIsCQZkELN6cr/devleopers-corner/sales-categories/presale) \[create a FairLaunch Pool]
+&#x20;[\[more info\]](https://docs.rogerpad.finance/devleopers-corner/sales-categories/fair-launch) \[create a FairLaunch Pool]
 
 ### [Whiz Launch:](https://docs.rogerpad.finance/devleopers-corner/sales-categories/whiz-launch) <a href="#whiz-launch" id="whiz-launch"></a>
 
 Like Fair Launch, but with set contributor limits, a Softcap, specified contribution ranges, and liquidity locking (minimum 51%). Promotes fairness, transparency, and liquidity stability while encouraging early engagement within defined parameters.
 
-&#x20;[\[more info\]](https://app.gitbook.com/s/DRzgwxbpIsCQZkELN6cr/devleopers-corner/sales-categories/presale) \[Phase 2 release]
+&#x20;\[[more info](https://docs.rogerpad.finance/devleopers-corner/sales-categories/whiz-launch)] \[Phase 2 release]
 
 ### Tier Launch: <a href="#tier-launch" id="tier-launch"></a>
 
 Tier PRESALE is a token launch model with escalating token prices until a set endpoint. It encourages early participation and fair token distribution by offering varying prices based on investment timing, enhancing transparency and equity.
 
-&#x20;[\[more info\]](https://app.gitbook.com/s/DRzgwxbpIsCQZkELN6cr/devleopers-corner/sales-categories/presale) \[Phase 2 release]
+&#x20;[\[more info\]](https://docs.rogerpad.finance/devleopers-corner/sales-categories/tier-presale-launch) \[Phase 2 release]
