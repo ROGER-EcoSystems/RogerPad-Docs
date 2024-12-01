@@ -11,3 +11,5 @@ At its core, the Conventional Launch on RogerPad enables project owners to defin
 Moreover, the Conventional Launch option on RogerPad serves as a testament to the platform's commitment to fostering a conducive environment for token sales. By embracing established practices and norms, projects can leverage RogerPad's infrastructure to reach a broader audience and engage with investors in a secure and efficient manner.
 
 In essence, the Conventional Launch option on RogerPad embodies the platform's dedication to facilitating seamless token sales while upholding industry standards and best practices. Through this approach, project owners can navigate the complexities of the token launch process with confidence, setting the stage for success in the ever-evolving landscape of digital assets.
+
+\[Create a Sales Pool]
