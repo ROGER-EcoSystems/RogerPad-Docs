@@ -16,4 +16,4 @@ Furthermore, the STEALTH Launch option serves as a strategic tool for managing r
 
 In essence, the STEALTH Launch option on RogerPad represents a bold step towards redefining token launch strategies, offering project owners a powerful tool for building anticipation, generating excitement, and maximizing engagement. By harnessing the power of secrecy, stakeholders can create a sense of exclusivity and intrigue that sets their project apart, paving the way for success in the competitive landscape of decentralized finance.
 
-&#x20;
+&#x20;\[Create a Sales Pool]
