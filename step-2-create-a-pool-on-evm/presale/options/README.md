@@ -4,7 +4,7 @@ description: PreSale
 
 # Options
 
-<figure><img src="../../../.gitbook/assets/Step 3 - Sales Options.png" alt=""><figcaption><p>Options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Step 3 - Sales Options (1).png" alt=""><figcaption><p>Options</p></figcaption></figure>
 
 {% hint style="info" %}
 You are able to add all different options to maek your raise a succesful one.

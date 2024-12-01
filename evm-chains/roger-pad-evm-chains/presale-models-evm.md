@@ -10,7 +10,7 @@ Introducing RogerPad's Tailored Sales Solutions, where we unlock your token laun
 
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-![](https://docs.rogerpad.finance/~gitbook/image?url=https%3A%2F%2F3140037524-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F2tqbPa3m9HBIWVFa5iz7%252Fuploads%252F0U9pzBv7AbzorjM6gaZk%252FD4E0E394-DA9B-4B85-9355-60CB1F66F536_4_5005_c.jpeg%3Falt%3Dmedia%26token%3D6d50a900-2672-4abc-99b6-0e35b54432d3\&width=768\&dpr=4\&quality=100\&sign=9c2fc442\&sv=1)
+<figure><img src="../../.gitbook/assets/Step 3 - Sales Options.png" alt=""><figcaption></figcaption></figure>
 
 #### [PUBLIC SALE](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/presale-models/public-sale) <a href="#public-sale" id="public-sale"></a>
 
