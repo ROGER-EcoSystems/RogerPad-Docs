@@ -14,7 +14,4 @@ Furthermore, the CUSTOM Launch option catalyzes innovation and creativity, enabl
 
 In essence, the CUSTOM Launch option on RogerPad represents a paradigm shift in fundraising, offering project owners the tools and flexibility they need to unlock new opportunities, drive growth, and realize their vision. By embracing adaptability, customization, and innovation as core principles, stakeholders can navigate the complexities of fundraising with confidence, paving the way for success in the ever-evolving landscape of decentralized finance.
 
-\
-
-
-&#x20;
+\[Create a Sales Pool]&#x20;
