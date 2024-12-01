@@ -6,11 +6,7 @@ description: Convetnional | Dynamic | Custom | Stealth
 
 <figure><img src="../../.gitbook/assets/Home.png" alt=""><figcaption><p>rogerpad.finance </p></figcaption></figure>
 
-##
-
-How to Video:  Creating a Presale Pool&#x20;
-
-
+## How to Video:  Creating a Presale Pool&#x20;
 
 {% hint style="info" %}
 Note: Section 3 Optional items are explained in seperate videos.  Please refer to How-to-do video file.
