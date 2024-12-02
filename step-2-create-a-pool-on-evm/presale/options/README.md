@@ -14,12 +14,6 @@ You are able to add all different options to maek your raise a succesful one.
 
     1\.    [  PRESALE MODELS](https://docs.rogerpad.finance/devleopers-corner/presale-models)
 
-    &#x20;       a.     Public
-
-    &#x20;       b.     Whitelist
-
-    &#x20;             i.     Tiered WhiteList
-
     2\.   [  Bonus Sale Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/bonus-sales-program)
 
     3\.     [Affiliate Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/affiliate-program)
