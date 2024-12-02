@@ -8,7 +8,7 @@ description: 'RogerGuard [evm]: Empowering Secure and Stable DeFi Projects'
 
 RogerGuard revolutionizes token and liquidity locking, ensuring security and stability in decentralized projects. Our comprehensive Roger Lock integration grants developers precise control over assets, while flexible duration selection enables tailored lock periods for long-term sustainability. With an intuitive interface, the setup is seamless, streamlining asset management. Prioritizing security, RogerGuard mitigates risks, safeguarding developers' and investors' interests for a stable ecosystem
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-24 at 4.12.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
 ### RogerGuard Integration for Token and Liquidity Locking: <a href="#rogerguard-integration-for-token-and-liquidity-locking" id="rogerguard-integration-for-token-and-liquidity-locking"></a>
 
