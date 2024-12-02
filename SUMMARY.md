@@ -8,7 +8,7 @@
   * [Sales Categories \[evm\]](evm-chains/roger-pad-evm-chains/sales-categories-evm.md)
   * [Type of Sales \[evm\]](evm-chains/roger-pad-evm-chains/type-of-sales-evm.md)
   * [PreSale Models \[evm\]](evm-chains/roger-pad-evm-chains/presale-models-evm.md)
-  * [Varied Sales Options \[evm\]](evm-chains/roger-pad-evm-chains/varied-sales-options-evm.md)
+  * [Sales Options \[evm\]](evm-chains/roger-pad-evm-chains/sales-options-evm.md)
 
 ## ROGER GENESIS \[EVM Chain)
 
