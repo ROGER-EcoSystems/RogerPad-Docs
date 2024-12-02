@@ -12,7 +12,7 @@ You are able to add all different options to maek your raise a succesful one.
 
 *   **OPTIONS**
 
-    1\.     [ PRESALE MODELS](presale-models.md)
+    1\.    [  PRESALE MODELS](https://docs.rogerpad.finance/devleopers-corner/presale-models)
 
     &#x20;       a.     Public
 

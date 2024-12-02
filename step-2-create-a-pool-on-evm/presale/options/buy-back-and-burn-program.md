@@ -1,5 +1,6 @@
 ---
 description: PreSale
+hidden: true
 ---
 
 # Buy Back & Burn Program

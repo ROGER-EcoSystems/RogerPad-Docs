@@ -12,15 +12,15 @@ This step involves entering your social media links, banner, and brief descripti
 **Please note** that while you can update the token description and social media details later, the token contract and sale details cannot be edited once approved.All social are able to be edited later.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/PS-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Step 4 - Social Media.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Step 4 - FInal Review.png" alt=""><figcaption></figcaption></figure>
 
-
--   1\.      YouTube:         Upload projects YouTube video. (Optional)
+-   1\.      YouTube:          Upload projects YouTube video. (Optional)
 
     2\.     Logo:                Preferred PNG Format up to 512x512 pix 1mb Max
 
-    3\.     Banner:  Banner in PNG format preferred 900x200 size
+    3\.     Banner:            Banner in PNG format preferred 900x200 size
 
     4\.     White Paper:  Enter the URL for the project white paper
 

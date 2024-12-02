@@ -1,5 +1,6 @@
 ---
 description: Pre Sale
+hidden: true
 ---
 
 # Bonus Sale Program

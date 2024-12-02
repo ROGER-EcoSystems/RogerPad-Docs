@@ -1,5 +1,6 @@
 ---
 description: PreSale
+hidden: true
 ---
 
 # PreSale Models
