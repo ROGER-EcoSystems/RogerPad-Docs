@@ -6,7 +6,11 @@ description: Empowering Your Crypto Future
 
 Prime Token is designed to offer project owners enhanced flexibility and control compared to a Simple Token. This type of token includes several advanced features that allow for a more tailored approach to managing and promoting your project.
 
-Key Features of Prime Token:
+\[Create a Prime Tokne NOW]
+
+{% embed url="https://app.guidde.com/share/playbooks/qBPHG4S3SuerEVdvyuSm7G?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
+### Key Features of Prime Token:
 
 1.  Buy and Sell Tax: max fee 25%
 
