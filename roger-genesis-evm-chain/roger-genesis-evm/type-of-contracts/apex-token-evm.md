@@ -6,7 +6,11 @@ description: Tailored Excellence with Enhanced SecurityCustom Token for EVM Chai
 
 The Apex Custom Token offers a premium solution for creating unique tokens with advanced features and added security. Through Roger Genesis, you can create a standard token at a discounted rate, or opt for a custom contract crafted by one of our verified contractors.
 
-<figure><img src="../../../.gitbook/assets/apex.png" alt=""><figcaption></figcaption></figure>
+
+
+{% hint style="info" %}
+[Request a Custom (APEX) Contract Now](https://forms.gle/iZk8XHXaBFtF5NTFA) | Contact CEO directly: [@rogerpad](https://t.me/rogerpad)
+{% endhint %}
 
 ### &#x20;Key Features:
 
