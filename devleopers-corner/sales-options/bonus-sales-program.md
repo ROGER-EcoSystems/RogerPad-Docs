@@ -6,7 +6,7 @@ description: >-
 
 # Bonus Sales Program
 
-<figure><img src="../../.gitbook/assets/BONUS SALESPROGRAM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bonus Buy.png" alt=""><figcaption></figcaption></figure>
 
 ### Incentivizing Early Participation: Enhancing Token Distribution through the Bonus Sale Program
 
@@ -26,6 +26,20 @@ The Bonus Buy Feature is designed to enhance engagement and incentivize particip
 
 ### Bonus Sales Program
 
-The Bonus Sale program is a flexible and structured approach to token distribution, designed to incentivize early investor participation and strengthen community engagement. It offers additional tokens or exclusive benefits based on predefined criteria, using a tiered system that caters to varying levels of investor commitment. The program can be implemented in multiple stages, with different levels within each stage, allowing developers to allocate specific percentages of tokens based on factors like purchase timing or investment amounts. This customizable approach enables projects to attract early investors, foster loyalty, and enhance their position in the competitive cryptocurrency market.
+The Bonus Sale program is a flexible and structured approach to token distribution, designed to incentivize early investor participation and strengthen community engagement. It offers additional tokens or exclusive benefits based on predefined criteria, using a tiered system that caters to varying levels of investor commitment. The program can be implemented in multiple phases, allowing developers to allocate specific percentages of tokens based on factors like purchase timing or investment amounts. This customizable approach enables projects to attract early investors, foster loyalty, and enhance their position in the competitive cryptocurrency market.
 
 &#x20;This feature is an effective way to drive sales momentum and reward loyal supporters of your project!
+
+<figure><img src="../../.gitbook/assets/15 (2).png" alt=""><figcaption></figcaption></figure>
+
+**Bonus Time (sec):** Enter the duration of this stage in seconds.
+
+**Min Buy amount:** Enter the minimum amount the investor has to buy in Pair Token to qualify for this bonus program.
+
+**Bonus %:** The amount of the incentive is in percentage (%) of the purchase.
+
+**Bonus Spots:** Number of bonus buys allowed for this phase.
+
+**ADD Phase:** Add another Phase of bonus level.
+
+**REMOVE:** Remove a Phase
