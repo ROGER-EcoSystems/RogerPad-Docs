@@ -42,6 +42,15 @@
   * [Review/Submit](step-2-create-a-pool-on-evm/presale/review-submit.md)
 * [FairLaunch](step-2-create-a-pool-on-evm/fairlaunch/README.md)
   * [Sales Category](step-2-create-a-pool-on-evm/fairlaunch/sales-category.md)
+  * [General Data](step-2-create-a-pool-on-evm/fairlaunch/general-data.md)
+  * [Sales Data](step-2-create-a-pool-on-evm/fairlaunch/sales-data.md)
+  * [Options](step-2-create-a-pool-on-evm/fairlaunch/options/README.md)
+    * [PreSale Models](step-2-create-a-pool-on-evm/fairlaunch/options/presale-models.md)
+    * [Bonus Sale Program](step-2-create-a-pool-on-evm/fairlaunch/options/bonus-sale-program.md)
+    * [Affiliate Program](step-2-create-a-pool-on-evm/fairlaunch/options/affiliate-program.md)
+    * [Buy Back & Burn Program](step-2-create-a-pool-on-evm/fairlaunch/options/buy-back-and-burn-program.md)
+    * [Sales Vesting Program](step-2-create-a-pool-on-evm/fairlaunch/options/sales-vesting-program.md)
+  * [Review/Submit](step-2-create-a-pool-on-evm/fairlaunch/review-submit.md)
 
 ## 🟩 STEP 3 | POST CREATING A LAUNCHPOOL
 
