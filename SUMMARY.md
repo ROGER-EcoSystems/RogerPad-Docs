@@ -40,6 +40,7 @@
     * [Buy Back & Burn Program](step-2-create-a-pool-on-evm/presale/options/buy-back-and-burn-program.md)
     * [Sales Vesting Program](step-2-create-a-pool-on-evm/presale/options/sales-vesting-program.md)
   * [Review/Submit](step-2-create-a-pool-on-evm/presale/review-submit.md)
+* [FairLaunch](step-2-create-a-pool-on-evm/fairlaunch.md)
 
 ## 🟩 STEP 3 | POST CREATING A LAUNCHPOOL
 
