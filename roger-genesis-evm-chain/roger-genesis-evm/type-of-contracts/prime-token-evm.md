@@ -8,7 +8,11 @@ Prime Token is designed to offer project owners enhanced flexibility and control
 
 \[Create a Prime Tokne NOW] \[[FEES](https://docs.rogerpad.finance/srvice-fees/service-fees)]
 
-{% embed url="https://app.guidde.com/share/playbooks/qBPHG4S3SuerEVdvyuSm7G?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
+
+{% embed url="https://youtu.be/rVmb20qyKqE" %}
+[https://youtu.be/rVmb20qyKqE](https://youtu.be/rVmb20qyKqE)
+{% endembed %}
 
 ### Key Features of Prime Token:
 
