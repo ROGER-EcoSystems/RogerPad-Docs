@@ -22,7 +22,7 @@ You are able to add all different options to maek your raise a succesful one.
 
 5\.     [Sales Vesting Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/sales-vesting-program)&#x20;
 
-6\. [Team Vesting Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/presale-vesting-program)
+6. &#x20; [Team Vesting Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/team-vesting)
 
 
 
