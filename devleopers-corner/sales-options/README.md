@@ -11,10 +11,13 @@ In this section, we delve into the multifaceted sales options offered by RogerPa
 > Links to all Optional Sales Options
 
 * [Bonus Sales program](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/bonus-sales-program)
-* [Affiliate Program](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/affiliate-program)
+* [Affiliate Program](#user-content-fn-1)[^1]
 * [Buy Back Program](https://docs.rogerpad.finance/devleopers-corner/sales-options/buy-back-and-burn-program)
 * [Min/Max Buy Limitations](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/min-max-buy)
 * [LP Creation](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/lp-creation) \[Liquidty Lock and Token Lock]
 * [Vesting Program](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad)  \[Sales Tokens and Team Tokens]
 * [AirDrop ](https://docs.rogerpad.finance/roger-eco-system/roger-eco-system/in-development/rogerpad/roger-air-drop)
 
+
+
+[^1]: 
