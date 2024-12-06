@@ -163,7 +163,7 @@
   * [Affiliate Program](devleopers-corner/sales-options/affiliate-program/README.md)
     * [Affiliate Rewards Explained](devleopers-corner/sales-options/affiliate-program/affiliate-rewards-explained.md)
   * [Buy Back & Burn Program](devleopers-corner/sales-options/buy-back-and-burn-program.md)
-  * [Sales Vesting Program](devleopers-corner/sales-options/sales-vesting-program.md)
+  * [PreSale Vesting Program](devleopers-corner/sales-options/presale-vesting-program.md)
 * [ADD ON SERVICES](devleopers-corner/add-on-services/README.md)
   * [Roger Air Drop](devleopers-corner/add-on-services/roger-air-drop.md)
 * [Trending Services](devleopers-corner/trending-services/README.md)
