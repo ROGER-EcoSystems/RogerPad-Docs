@@ -4,7 +4,7 @@ description: Empowering Innovation, Ensuring Success
 
 # Roger Eco-System
 
-<figure><img src="../../.gitbook/assets/26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMAGE 2024-10-21 181852.jpeg" alt="" width="375"><figcaption><p>rogerpad.finance</p></figcaption></figure>
 
 At the heart of Roger lies an expansive ecosystem designed to foster innovation, empower creators, and drive growth within the decentralized finance (DeFi) landscape. Our ecosystem is built upon the principles of transparency, accessibility, and community collaboration, aiming to create value for all participants.
 
