@@ -14,7 +14,7 @@ description: Elevate Engagement and Enhance Visibility
 
 
 
-<figure><img src="../../../.gitbook/assets/19 (1).png" alt=""><figcaption><p>PHASE !</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/19 (1) (1).png" alt=""><figcaption><p>PHASE !</p></figcaption></figure>
 
 \#RogerFOMOBot, our mission is to revolutionize the way blockchain communities engage with token presales and launches. We are a dedicated team passionate about fostering excitement, driving participation, and enhancing the overall experience for users and projects alike.
 
@@ -45,7 +45,7 @@ Join us in transforming the way blockchain communities interact and thrive. Toge
 
 ### Support Information:
 
-* General Support: For any assistance, contact us via Telegram at [RogerPad\_Support](https://t.me/RogerPad\_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance).
+* General Support: For any assistance, contact us via Telegram at [RogerPad\_Support](https://t.me/RogerPad_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance).
 * Emergency Contact: For urgent matters, you can reach the CEO directly via Telegram at [rogerpad](https://t.me/rogerpad).
 * FOMO Bot Support :  Please join [https://t.me/+fWZsD93unv0zY2Yx](https://t.me/+fWZsD93unv0zY2Yx)
 
