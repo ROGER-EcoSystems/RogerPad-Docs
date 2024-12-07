@@ -13,3 +13,7 @@ Roger Pad's automatic LP creation option streamlines the process of establishing
 ### &#x20;Manual LP Creation:
 
 Alternatively, Roger Pad offers a manual LP creation option that empowers project owners with greater control and customization capabilities. With this approach, project owners have the flexibility to tailor liquidity pool parameters to specific project requirements and market conditions. While providing enhanced control and customization options, manual LP creation typically requires more time and effort to set up and manage compared to automated methods. Project owners should carefully evaluate trade-offs, considering factors such as budget constraints and presale type compatibility when selecting manual LP creation for their project launch on Roger Pad.
+
+
+
+\[Read More]...
