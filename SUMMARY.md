@@ -167,6 +167,7 @@
   * [Team Vesting](devleopers-corner/sales-options/team-vesting.md)
 * [ADD ON SERVICES](devleopers-corner/add-on-services/README.md)
   * [Roger Air Drop](devleopers-corner/add-on-services/roger-air-drop.md)
+  * [LP Creation](devleopers-corner/add-on-services/lp-creation.md)
 * [Trending Services](devleopers-corner/trending-services/README.md)
   * [Organic Trending](devleopers-corner/trending-services/organic-trending.md)
   * [Paid Trending](devleopers-corner/trending-services/paid-trending.md)
