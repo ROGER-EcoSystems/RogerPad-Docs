@@ -1,6 +1,12 @@
+---
+description: 'Empowering Projects, Tailored Liquidity: Roger Pad''s LP Creation Options'
+---
+
 # LP Creation
 
-Empowering Projects, Tailored Liquidity: Roger Pad's LP Creation Options
+Roger Guard&#x20;
+
+<figure><img src="../../.gitbook/assets/ROGER GUARD.png" alt="" width="250"><figcaption></figcaption></figure>
 
 Roger Pad provides project launches with two distinct options for liquidity pool (LP) creation, catering to diverse project needs and preferences. These options offer varying levels of automation and control, allowing project owners to select the most suitable approach for their specific requirements. This summary provides an overview of Roger Pad's LP creation options, highlighting their features and considerations.
 
