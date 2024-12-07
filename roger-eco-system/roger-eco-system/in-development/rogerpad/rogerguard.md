@@ -6,7 +6,7 @@ description: Secure Locks, Secure Future
 
 {% embed url="https://rogerpad.finance" %}
 
-<figure><img src="../../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ROGER GUARD.png" alt=""><figcaption></figcaption></figure>
 
 RogerGuard is a vital part of the Roger Launchpad ecosystem, providing essential token and liquidity pool locking services. Its primary goal is to ensure that every transaction on our platform is secure and trustworthy.
 
@@ -25,7 +25,7 @@ With RogerGuard, you can participate in projects and transactions with peace of 
 
 ### Support Information:
 
-* General Support: Always available via Telegram at [RogerPad\_Support](https://t.me/RogerPad\_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance.).
+* General Support: Always available via Telegram at [RogerPad\_Support](https://t.me/RogerPad_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance.).
 * Emergency Contact: Reach the CEO directly for urgent matters via Telegram at [rogerpad](https://t.me/rogerpad).
 
 > Click the appropriate link below to check how to instructions.
