@@ -25,6 +25,7 @@
   * [Introduction](roger-guard-evm-chain/roger-guard-evm/introduction.md)
   * [LP/Token Locking \[evm\]](roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm.md)
   * [Vesting \[evm\]](roger-guard-evm-chain/roger-guard-evm/vesting-evm.md)
+  * [PreSale Vesting](roger-guard-evm-chain/roger-guard-evm/presale-vesting.md)
 
 ## 🟪 STEP 2 CREATE A POOL on EVM
 
