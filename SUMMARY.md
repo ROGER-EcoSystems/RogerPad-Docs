@@ -168,6 +168,7 @@
 * [ADD ON SERVICES](devleopers-corner/add-on-services/README.md)
   * [Roger Air Drop](devleopers-corner/add-on-services/roger-air-drop.md)
   * [LP Creation](devleopers-corner/add-on-services/lp-creation.md)
+  * [Roger FOMO Bot](devleopers-corner/add-on-services/roger-fomo-bot.md)
 * [Trending Services](devleopers-corner/trending-services/README.md)
   * [Organic Trending](devleopers-corner/trending-services/organic-trending.md)
   * [Paid Trending](devleopers-corner/trending-services/paid-trending.md)
