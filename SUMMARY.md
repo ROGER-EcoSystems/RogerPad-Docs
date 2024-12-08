@@ -173,7 +173,7 @@
   * [Organic Trending](devleopers-corner/trending-services/organic-trending.md)
   * [Paid Trending](devleopers-corner/trending-services/paid-trending.md)
 
-## INVESTORS' CORNER
+## 🟩 INVESTORS' CORNER
 
 * [INVESTOR'S CORNER](investors-corner/investors-corner/README.md)
   * [How to Participate in a PreSale](investors-corner/investors-corner/how-to-participate-in-a-presale.md)
