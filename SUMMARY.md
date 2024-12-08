@@ -175,7 +175,12 @@
 
 ## INVESTORS' CORNER
 
-* [INVESTOR'S CORNER](investors-corner/investors-corner.md)
+* [INVESTOR'S CORNER](investors-corner/investors-corner/README.md)
+  * [How to Participate in a PreSale](investors-corner/investors-corner/how-to-participate-in-a-presale.md)
+  * [Affiliate Program](investors-corner/investors-corner/affiliate-program.md)
+  * [How to Claim your Token](investors-corner/investors-corner/how-to-claim-your-token.md)
+  * [Withdrawing your Contribution](investors-corner/investors-corner/withdrawing-your-contribution.md)
+  * [Emergency Withdrawal](investors-corner/investors-corner/emergency-withdrawal.md)
 * [Trending](investors-corner/trending.md)
 
 ## PARTNER'S CORNER
