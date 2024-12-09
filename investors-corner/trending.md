@@ -4,7 +4,26 @@ description: 'Trending Token Sales: Organic vs. Paid Promotions"'
 
 # Trending
 
+RogerPad offers two trending promotional services on their platform: Organic Promotions and Paid Promotions. These services are designed to help users maximize their reach and impact within the RogerPad ecosystem.
 
+* Organic Promotions focus on leveraging natural, non-paid methods to increase visibility and engagement. This can include community-driven initiatives, user-generated content, and strategic partnerships that organically build the RogerPad brand and its projects.
+* Paid Promotions involve direct investment in advertising and marketing efforts to enhance visibility and attract potential investors or users. This can include targeted campaigns, sponsored content, and other forms of paid media designed to quickly amplify the reach and effectiveness of promotional efforts.
+
+Both services provide unique opportunities for users and developers within the RogerPad ecosystem to grow their projects and reach broader audiences.
+
+&#x20;Considerations for Investors
+
+While paid promotions significantly improve a project's visibility, they do not replace the need for robust fundamentals. Investors should:
+
+* Examine the project's whitepaper, team credentials, and tokenomics.
+* Assess the authenticity and relevance of influencer partnerships.
+* Compare organic traction and community engagement with the results of paid advertising efforts.
+
+By recognizing the distinction between organic and paid trending token sales, investors can better navigate opportunities on the platform and make informed decisions that align with their risk appetite and investment strategy.
+
+
+
+### Organic Trending
 
 In the pre-sale phase on the Roger Pad platform, badges play a pivotal role in influencing the trending score, which determines visibility and attractiveness to potential investors. Each badge, including Dox, KYC, Audit, and Safu, contributes to a multiplier applied to the trending score. Specifically:
 
