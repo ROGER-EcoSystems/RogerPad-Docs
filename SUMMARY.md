@@ -138,7 +138,7 @@
   * [DOXX Badge](badges/badges/doxx-badge.md)
   * [SAFU Badge](badges/badges/safu-badge.md)
 
-## DEVLEOPERS CORNER
+## 🔷 DEVLEOPERS CORNER
 
 * [Unlock Your Project's Potential](devleopers-corner/unlock-your-projects-potential.md)
 * [Why Rogerpad?](devleopers-corner/why-rogerpad.md)
@@ -169,6 +169,10 @@
   * [Roger Air Drop](devleopers-corner/add-on-services/roger-air-drop.md)
   * [LP Creation](devleopers-corner/add-on-services/lp-creation.md)
   * [Roger FOMO Bot](devleopers-corner/add-on-services/roger-fomo-bot.md)
+  * [⏩ Editing a Sales Pool by Developers](devleopers-corner/add-on-services/editing-a-sales-pool-by-developers/README.md)
+    * [Edit a Current Sale Pool](devleopers-corner/add-on-services/editing-a-sales-pool-by-developers/edit-a-current-sale-pool.md)
+    * [Set Whitelisted Addresses](devleopers-corner/add-on-services/editing-a-sales-pool-by-developers/set-whitelisted-addresses.md)
+    * [End Whitelist](devleopers-corner/add-on-services/editing-a-sales-pool-by-developers/end-whitelist.md)
 * [Trending Services](devleopers-corner/trending-services/README.md)
   * [Organic Trending](devleopers-corner/trending-services/organic-trending.md)
   * [Paid Trending](devleopers-corner/trending-services/paid-trending.md)
