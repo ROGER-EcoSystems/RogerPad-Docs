@@ -22,7 +22,7 @@ Project Dev may choose to add an affiliate program to help attract more investor
 
 [Check Details](https://docs.rogerpad.finance/developers-corner/sales-options/affiliate-program/affiliate-rewards-explained)
 
-### Claiming Your Reward: <a href="#claiming-your-reward" id="claiming-your-reward"></a>
+## Claiming Your Reward: <a href="#claiming-your-reward" id="claiming-your-reward"></a>
 
 1\. Wait for Finalization: Rewards can typically be claimed only after the sale or promotion has been finalized. This means that the sale period has ended, and all transactions have been processed.
 
