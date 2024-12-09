@@ -24,3 +24,6 @@ Please note that sale-specific information created during setup cannot be change
 
 
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/eHrQ5UBhUppx7bqexizMhn?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
