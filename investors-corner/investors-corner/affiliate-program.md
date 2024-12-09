@@ -18,6 +18,10 @@ Project Dev may choose to add an affiliate program to help attract more investor
 
 5\. Share Your Referral Link: You can now share this link with others. When they use this link to make a purchase or sign up, you'll earn referral rewards.
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/iX2jmiZC4u7s95jj2UP9gV?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 ## How Affiliate reward is calculated?
 
 [Check Details](https://docs.rogerpad.finance/developers-corner/sales-options/affiliate-program/affiliate-rewards-explained)
