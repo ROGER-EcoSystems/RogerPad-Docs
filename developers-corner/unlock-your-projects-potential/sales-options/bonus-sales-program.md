@@ -6,7 +6,7 @@ description: >-
 
 # Bonus Sales Program
 
-<figure><img src="../../.gitbook/assets/Bonus Buy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bonus Buy.png" alt=""><figcaption></figcaption></figure>
 
 ### Incentivizing Early Participation: Enhancing Token Distribution through the Bonus Sale Program
 
@@ -30,7 +30,7 @@ The Bonus Sale program is a flexible and structured approach to token distributi
 
 &#x20;This feature is an effective way to drive sales momentum and reward loyal supporters of your project!
 
-<figure><img src="../../.gitbook/assets/15 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/15 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Bonus Time (sec):** Enter the duration of this stage in seconds.
 

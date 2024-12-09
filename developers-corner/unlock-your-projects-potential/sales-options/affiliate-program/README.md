@@ -12,6 +12,6 @@ Introducing the Affiliate Reward Program, a cornerstone initiative designed to e
 
 {% embed url="https://app.guidde.com/share/playbooks/oNfny8ExhN76B3D1sz8nai?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
 
-<figure><img src="../../../.gitbook/assets/Affiliate Program.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Affiliate Program.png" alt=""><figcaption></figcaption></figure>
 
 With a keen focus on fostering meaningful connections and rewarding active participants, the Affiliate Reward Program embodies our commitment to cultivating a vibrant and thriving ecosystem. By encouraging users to become ambassadors of the platform, we aim to amplify community involvement while simultaneously acknowledging and incentivizing their valuable contributions.

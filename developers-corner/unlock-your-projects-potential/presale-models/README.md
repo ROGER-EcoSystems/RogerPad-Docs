@@ -6,7 +6,7 @@ description: Unlock Your Token Launch Potential with RogerPad's Tailored Sales S
 
 Introducing RogerPad's Tailored Sales Solutions, where we unlock your token launch potential with precision and flexibility. Our platform offers a range of presale options designed to cater to your project's unique needs, ensuring a seamless and effective fundraising experience.
 
-<figure><img src="../../.gitbook/assets/Step 3 - Sales Options.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Step 3 - Sales Options.png" alt=""><figcaption></figcaption></figure>
 
 #### [PUBLIC SALE](https://docs.rogerpad.finance/devleopers-corner/presale-models/public-sale) <a href="#public-sale" id="public-sale"></a>
 
@@ -20,7 +20,7 @@ Join a select group of approved participants in a Whitelist Sale, where priority
 
 
 
-<figure><img src="../../.gitbook/assets/Step 3 - White List.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Step 3 - White List.png" alt=""><figcaption></figcaption></figure>
 
 * Only wallets included in your whitelist can participate in the presale during the whitelist period. This option provides exclusivity and ensures that only selected investors can buy during the initial sale. In a Whitelist Sale, participation is restricted to a predetermined list of approved addresses. These addresses are typically selected based on criteria set by the project team, such as early supporters, community members, or strategic partners. Whitelisted participants are given priority access to the token sale, ensuring that they have the opportunity to contribute before the sale opens to the general public. This type of sale is often used to reward loyal community members or to comply with regulatory requirements in certain jurisdictions. Whitelist sales can help projects build hype and momentum leading up to the token launch while fostering a sense of exclusivity among participants.
 
@@ -30,7 +30,7 @@ Join a select group of approved participants in a Whitelist Sale, where priority
 
 Elevate your token sale experience with a Tiered Whitelist Sale, where participants enjoy tiered benefits based on their level of engagement. From early access to bonus tokens, each tier offers unique privileges, creating a sense of progression and excitement that drives community engagement.&#x20;
 
-<figure><img src="../../.gitbook/assets/Step 3 - Tiered WL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Step 3 - Tiered WL.png" alt=""><figcaption></figcaption></figure>
 
 * In a Tiered Whitelist Sale, participants are categorized into different tiers based on predetermined criteria set by the project team. Each tier is assigned specific benefits or privileges, such as early access to the token sale, bonus tokens, or discounted prices. Tier 1 participants typically receive the highest level of benefits, followed by Tier 2, Tier 3, and so on, depending on the structure of the whitelist. Tiered whitelist sales are often used to incentivize early engagement and reward loyal community members with exclusive perks. By offering tiered benefits, projects can create a sense of progression and excitement leading up to the token sale, driving participation and community engagement.
 

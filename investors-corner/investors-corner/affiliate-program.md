@@ -1,10 +1,12 @@
 # Affiliate Program
 
-Project Dev may choose to add an affiliate program to help attract more investors.  \[LINK]
+Project Dev may choose to add an affiliate program to help attract more investors. &#x20;
 
-#### Here's a step-by-step breakdown of how to do it: <a href="#heres-a-step-by-step-breakdown-of-how-to-do-it" id="heres-a-step-by-step-breakdown-of-how-to-do-it"></a>
+[Check Details](https://docs.rogerpad.finance/developers-corner/sales-options/affiliate-program)
 
-#### Finding Your Referral Code: <a href="#finding-your-referral-code" id="finding-your-referral-code"></a>
+## Here's a step-by-step breakdown of how to do it: <a href="#heres-a-step-by-step-breakdown-of-how-to-do-it" id="heres-a-step-by-step-breakdown-of-how-to-do-it"></a>
+
+### Finding Your Referral Code: <a href="#finding-your-referral-code" id="finding-your-referral-code"></a>
 
 1\. Check for Affiliate Programs: Ensure that the project or sale you're interested in has an affiliate program. This program allows you to earn rewards by referring others to the sale.
 
@@ -16,7 +18,11 @@ Project Dev may choose to add an affiliate program to help attract more investor
 
 5\. Share Your Referral Link: You can now share this link with others. When they use this link to make a purchase or sign up, you'll earn referral rewards.
 
-#### Claiming Your Reward: <a href="#claiming-your-reward" id="claiming-your-reward"></a>
+## How Affiliate reward is calculated?
+
+[Check Details](https://docs.rogerpad.finance/developers-corner/sales-options/affiliate-program/affiliate-rewards-explained)
+
+### Claiming Your Reward: <a href="#claiming-your-reward" id="claiming-your-reward"></a>
 
 1\. Wait for Finalization: Rewards can typically be claimed only after the sale or promotion has been finalized. This means that the sale period has ended, and all transactions have been processed.
 
