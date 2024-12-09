@@ -6,6 +6,10 @@ Follow these step-by-step instructions to join a presale seamlessly:
 
 Ensure your EVM-compatible wallet (e.g., MetaMask) is connected to the RogerPad platform.
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/g9jscE5WEPvsRjT9tCotdj?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 ### Step 2: Explore the Launchpad
 
 1. Access the Presale List:\
