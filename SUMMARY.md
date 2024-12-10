@@ -174,6 +174,7 @@
 * [Trending Services](developers-corner/trending-services/README.md)
   * [Organic Trending](developers-corner/trending-services/organic-trending.md)
   * [Paid Trending](developers-corner/trending-services/paid-trending.md)
+* [Start a Pool](developers-corner/start-a-pool.md)
 
 ## 🟩 INVESTORS' CORNER
 
