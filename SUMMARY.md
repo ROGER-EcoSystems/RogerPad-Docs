@@ -120,7 +120,11 @@
 
 * [♨️ RANKINGS](rankings/rankings/README.md)
   * [Dev Ranking](rankings/rankings/dev-ranking/README.md)
-    * [PROJECT RANKINGS](rankings/rankings/dev-ranking/project-rankings.md)
+    * [PROJECT RANKINGS](rankings/rankings/dev-ranking/project-rankings/README.md)
+      * [🥈 SILVER Ranking](rankings/rankings/dev-ranking/project-rankings/silver-ranking.md)
+      * [🥇 GOLD Ranking](rankings/rankings/dev-ranking/project-rankings/gold-ranking.md)
+      * [🪧 Platinum Ranking](rankings/rankings/dev-ranking/project-rankings/platinum-ranking.md)
+      * [💎 DIAMOND Ranking](rankings/rankings/dev-ranking/project-rankings/diamond-ranking.md)
     * [Rules to Follow](rankings/rankings/dev-ranking/rules-to-follow.md)
   * [Investor Ranking](rankings/rankings/investor-ranking/README.md)
     * [Guiding Principles](rankings/rankings/investor-ranking/guiding-principles.md)

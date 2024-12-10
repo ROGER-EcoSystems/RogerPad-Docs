@@ -1,6 +1,6 @@
 # Silver Ranking
 
-<figure><img src="../../../.gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Achieving the esteemed Silver Ranking tier within the Roger ecosystem entails more than just meeting numerical thresholds; it represents a comprehensive commitment to the values and goals of the community. By accumulating a substantial holding of at least 1 sol  Roger Tokens, individuals not only demonstrate a significant financial investment but also signal their belief in the long-term viability and potential of the ecosystem. This level of token ownership indicates a vested interest in the success and development of Roger's initiatives.
 

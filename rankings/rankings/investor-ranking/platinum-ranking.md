@@ -1,6 +1,6 @@
 # Platinum Ranking
 
-<figure><img src="../../../.gitbook/assets/4 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Achieving the esteemed Platinum Ranking tier within the Roger ecosystem signifies a pinnacle of commitment and engagement. Holders aiming for this prestigious tier must surpass stringent criteria, demonstrating a significant level of dedication and investment in the ecosystem's growth and development.
 

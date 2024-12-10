@@ -8,7 +8,7 @@ description: LAUNCH SAFELY, RAISE AFFORDABLY
 Direct Link to RogerPad
 {% endembed %}
 
-<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption><p>ROGERPAD.FINANCE</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4 (1).png" alt=""><figcaption><p>ROGERPAD.FINANCE</p></figcaption></figure>
 
 ### RogerPad: A Cornerstone of the Roger Ecosystem and the Future of Blockchain Innovation
 

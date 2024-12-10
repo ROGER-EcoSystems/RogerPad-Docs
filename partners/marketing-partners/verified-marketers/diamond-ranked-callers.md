@@ -6,7 +6,7 @@ hidden: true
 
 ## Verified Callers in #Diamond Rank
 
-<figure><img src="../../../.gitbook/assets/5.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **ELITE CRYPTO LOUNGE**
 
@@ -24,6 +24,6 @@ GAMBLE: [https://t.me/elitecryptogambles](https://t.me/elitecryptogambles)
 
 X: [https://twitter.com/elitecryptolou1](https://twitter.com/elitecryptolou1)
 
-Contact: @[Moe\_hou |](https://t.me/Moe\_hou) @[HopeSophia](https://t.me/HopeSophia)
+Contact: @[Moe\_hou |](https://t.me/Moe_hou) @[HopeSophia](https://t.me/HopeSophia)
 
 Twitter Contact: [x.com/HopeEloiseBoyd](https://x.com/HopeEloiseBoyd)

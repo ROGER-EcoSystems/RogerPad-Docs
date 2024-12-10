@@ -8,7 +8,7 @@ description: Crafting the Future of Tokens
 
 {% embed url="https://rogerpad.finance" %}
 
-<figure><img src="../../../../.gitbook/assets/9.png" alt=""><figcaption><p>PHASE 1</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/9 (1).png" alt=""><figcaption><p>PHASE 1</p></figcaption></figure>
 
 RogerGenesis is at the cutting edge of token creation, offering a premier platform for generating custom tokens on the Solana blockchain. Designed with both simplicity and power in mind, RogerGenesis provides intuitive tools and a user-friendly interface that make it easy for individuals and projects to tokenize their ideas, assets, and communities.
 
@@ -20,7 +20,7 @@ RogerGenesis is at the cutting edge of token creation, offering a premier platfo
 
 &#x20;Support Information:
 
-* General Support: Always available via Telegram at [RogerPad\_Support](https://t.me/RogerPad\_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance.).
+* General Support: Always available via Telegram at [RogerPad\_Support](https://t.me/RogerPad_Support) or via email at [support@rogerpad.finance](mailto:support@rogerpad.finance.).
 * Emergency Contact: Reach the CEO directly for urgent matters via Telegram at [rogerpad](https://t.me/rogerpad).
 
 

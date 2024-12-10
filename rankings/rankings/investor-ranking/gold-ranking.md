@@ -1,6 +1,6 @@
 # Gold Ranking
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 To attain the esteemed Gold Ranking tier within the Roger ecosystem, holders must meet rigorous criteria that underscore their significant commitment and engagement. Specifically, individuals aiming for this prestigious tier must demonstrate substantial ownership by possessing a minimum of 72 sol Roger Tokens in their portfolio. This substantial token holding not only reflects a considerable financial investment but also signifies a strong belief in the ecosystem's long-term prospects and objectives.
 
