@@ -9,7 +9,7 @@ Start a group and add [@rogerpad](https://t.me/rogerpad) and [@rogerpad\_dev](ht
 ***
 
 > **Disclaimer:**\
-> Ensure you are dealing with a **verified listing agent**. Always verify the link provided. We are not responsible for any transactions or dealings made outside of officially verified listing agents. For official support, the CEO is always available via [@rogerpad](https://t.me/rogerpad). No money should be transacted outside of official channels.
+> Ensure you are dealing with a **verified listing agent**. Always [verify the link](https://docs.rogerpad.finance/careers/bdm/verify-a-bdm/verified-bdm) provided. We are not responsible for any transactions or dealings made outside of officially verified listing agents. For official support, the CEO is always available via [@rogerpad](https://t.me/rogerpad). No money should be transacted outside of official channels.
 
 ## 1. RogerPad Introduction
 
