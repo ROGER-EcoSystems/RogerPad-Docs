@@ -17,12 +17,15 @@ layout:
 
 ## Rankings Introduction
 
-Ranking for holders and developers is essential in ensuring a fair and thriving ecosystem within the RogerPad platform. There are four different Rankings Shiled can be achieved:
+### Why Project Rankings Matter
 
-1. Diamond Ranking    [INV.](investor-ranking/diamond-ranking.md) | [DEV](dev-ranking/)
-2. Platinum Ranking.   [INV.](investor-ranking/platinum-ranking.md) | [DEV](dev-ranking/)
-3. Gold Ranking     [INV.](investor-ranking/diamond-ranking.md)[ ](investor-ranking/gold-ranking.md)| [DEV](dev-ranking/)
-4. Silver Ranking   [  INV. ](investor-ranking/silver-ranking.md)| [DEV](dev-ranking/)
+The RogerPad ranking system serves to:
+
+* Empower investors with clarity and confidence when evaluating token sales.
+* Reward developers who prioritize transparency, security, and innovation.
+* Foster a robust and trustworthy ecosystem that encourages meaningful contributions.
+
+Elevate your project and unlock the benefits of higher-tier rankings on RogerPad!
 
 <figure><img src="../../.gitbook/assets/RANKING 2C.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,11 +38,4 @@ Here's how we approach ranking for both parties:
 &#x20;It's essential to underscore that participation in the ranking system is optional for holders and mandatory solely for developers seeking to avail themselves of added benefits. Furthermore, developers are not compelled to obtain a ranking; it remains at their discretion.
 
 &#x20;In essence, the ranking system serves as a mechanism to recognize and reward active participation and excellence within the RogerPad ecosystem, ultimately contributing to its ongoing growth and success.
-
-1. [Investor Ranking](investor-ranking/)
-2. [Developer Ranking](dev-ranking/)
-
-
-
-
 

@@ -119,19 +119,12 @@
 ## RANKINGS
 
 * [♨️ RANKINGS](rankings/rankings/README.md)
-  * [Dev Ranking](rankings/rankings/dev-ranking/README.md)
-    * [PROJECT RANKINGS](rankings/rankings/dev-ranking/project-rankings/README.md)
-      * [🥈 SILVER Ranking](rankings/rankings/dev-ranking/project-rankings/silver-ranking.md)
-      * [🥇 GOLD Ranking](rankings/rankings/dev-ranking/project-rankings/gold-ranking.md)
-      * [🪧 Platinum Ranking](rankings/rankings/dev-ranking/project-rankings/platinum-ranking.md)
-      * [💎 DIAMOND Ranking](rankings/rankings/dev-ranking/project-rankings/diamond-ranking.md)
-    * [Rules to Follow](rankings/rankings/dev-ranking/rules-to-follow.md)
-  * [Investor Ranking](rankings/rankings/investor-ranking/README.md)
-    * [Guiding Principles](rankings/rankings/investor-ranking/guiding-principles.md)
-    * [Silver Ranking](rankings/rankings/investor-ranking/silver-ranking.md)
-    * [Gold Ranking](rankings/rankings/investor-ranking/gold-ranking.md)
-    * [Platinum Ranking](rankings/rankings/investor-ranking/platinum-ranking.md)
-    * [Diamond Ranking](rankings/rankings/investor-ranking/diamond-ranking.md)
+  * [PROJECT RANKINGS](rankings/rankings/project-rankings/README.md)
+    * [🥈 SILVER Ranking](rankings/rankings/project-rankings/silver-ranking.md)
+    * [🥇 GOLD Ranking](rankings/rankings/project-rankings/gold-ranking.md)
+    * [🪧 Platinum Ranking](rankings/rankings/project-rankings/platinum-ranking.md)
+    * [💎 DIAMOND Ranking](rankings/rankings/project-rankings/diamond-ranking.md)
+    * [Guidelines for Ranking](rankings/rankings/project-rankings/guidelines-for-ranking.md)
 
 ## BADGES
 

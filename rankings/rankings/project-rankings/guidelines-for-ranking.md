@@ -1,8 +1,4 @@
----
-description: for Developer Rankings
----
-
-# Rules to Follow
+# Guidelines for Ranking
 
 Please note the stringent requirements to hold a ranking within the Roger Eco-System:
 
