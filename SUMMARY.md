@@ -130,11 +130,10 @@
 
 * [📛 BADGES](badges/badges/README.md)
   * [KYC Badge](badges/badges/kyc-badge.md)
-  * [Audit Badge](badges/badges/audit-badge.md)
-  * [Based Badge](badges/badges/based-badge.md)
+  * [AUDIT Badge](badges/badges/audit-badge.md)
   * [DOXX Badge](badges/badges/doxx-badge.md)
   * [SAFU Badge](badges/badges/safu-badge.md)
-  * [BASED Badge](badges/badges/based-badge-1.md)
+  * [BASED Badge](badges/badges/based-badge.md)
 
 ## 🔷 DEVELOPERS CORNER
 
