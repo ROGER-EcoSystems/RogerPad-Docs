@@ -198,7 +198,7 @@
 
 * [PurrPaws](purrpaws-or-paws-combat/purrpaws.md)
 
-## CAREERS
+## 💎 CAREERS
 
 * [Welcome](careers/welcome.md)
 * [Why you should join Roger Ecosystems](careers/why-you-should-join-roger-ecosystems.md)
