@@ -41,14 +41,14 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 1. [Create a PreSale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-2-create-a-pool-on-evm/presale)
 2. [Edit a PreSale ](https://docs.rogerpad.finance/developers-corner/add-on-services/editing-a-sales-pool-by-developers)
-3. Finalize a PreSale
+3. [Finalize a PreSale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-4-finalizing-and-launching-on-evm/finalizing-a-pool)
 4. Cancel a PreSale
 
 ### FAIR LAUNCH SALE
 
 1. [Create a FairLaunch Sale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-2-create-a-pool-on-evm/fairlaunch)
 2. [Edit a FairLaunch Sale](https://docs.rogerpad.finance/developers-corner/add-on-services/editing-a-sales-pool-by-developers)
-3. FInalize a FairLaunch Sale
+3. [FInalize a FairLaunch Sale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-4-finalizing-and-launching-on-evm/finalizing-a-pool)
 4. Cancel a PreSale
 
 ### OPTIONS
