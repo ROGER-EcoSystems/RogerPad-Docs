@@ -66,8 +66,8 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
    3. [PLATINUM Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/platinum-ranking)
    4. [DIAMOND Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/diamond-ranking)
 4. [Affiliate Program](https://docs.rogerpad.finance/investors-corner/investors-corner/affiliate-program)
-5. Bonus Buy
-6. Buy Back Burn Program
+5. [Bonus Buy](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/bonus-sales-program)
+6. [Buy Back Burn Program](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/buy-back-and-burn-program)
 7. Vesting Presale
 8. Vesting Team Tokens
 
