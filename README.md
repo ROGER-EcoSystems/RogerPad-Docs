@@ -68,27 +68,27 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 4. [Affiliate Program](https://docs.rogerpad.finance/investors-corner/investors-corner/affiliate-program)
 5. [Bonus Buy](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/bonus-sales-program)
 6. [Buy Back Burn Program](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/buy-back-and-burn-program)
-7. Vesting Presale
-8. Vesting Team Tokens
+7. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program)
+8. [Vesting Team Tokens](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)
 
 ### SERVICES
 
-1. Air Drop
-2. Roger FOMO Buy Bot
-3. Roger NFT
-4. PurrPaws&#x20;
-5. PawsCombat\_bot
+1. [Air Drop](https://docs.rogerpad.finance/developers-corner/add-on-services/roger-air-drop)
+2. [Roger FOMO Buy Bot](https://docs.rogerpad.finance/rogerfomobot/rogerfomobot)
+3. [Roger NFT](https://docs.rogerpad.finance/roger-nft/roger-nft)
+4. [PurrPaws ](https://docs.pawscombat.xyz/)
+5. P[awsCombat\_bot](https://docs.pawscombat.xyz/pawscombat/paws-combat)
 
 ### LOCK (Roger Guard)
 
-1. Liquidity Locks
-2. Token Lock
-3. Vesting Presale
-4. Vesting Team&#x20;
+1. [Liquidity Locks](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm)
+2. [Token Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm)
+3. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program)
+4. [Vesting Team ](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)
 
 ### MARKETING SERVICES
 
-1. Verified Calelrs
+1. Verified Callers
 2. Listed Callers
 3. Adverting on PawsCombat
 4. Trending on RogerPad
