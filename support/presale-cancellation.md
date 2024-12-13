@@ -2,7 +2,7 @@
 description: rogerpad.finance
 ---
 
-# Presale Cancellation
+# ❌ Presale Cancellation
 
 At RogerPad, our top priority is the protection of investors and the establishment of a trustworthy and reliable platform. We are committed to carefully launching projects and fostering confidence in investment opportunities.
 

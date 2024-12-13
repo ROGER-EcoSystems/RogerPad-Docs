@@ -108,7 +108,7 @@
 ## 🧰 SUPPORT
 
 * [🛂 SUPPORT INFO](support/support-info.md)
-* [Presale Cancellation](support/presale-cancellation.md)
+* [❌ Presale Cancellation](support/presale-cancellation.md)
 
 ## ROGER CLUBS
 
