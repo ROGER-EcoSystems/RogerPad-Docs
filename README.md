@@ -34,7 +34,7 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 ### TOKEN CREATION (ROGER GENESIS)
 
-1. [Create a Prime Token ( Standard)](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-genesis-evm-chain/roger-genesis-evm/type-of-contracts/prime-token-evm)
+1. C[reate a Prime Token ( Standard)](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-genesis-evm-chain/roger-genesis-evm/type-of-contracts/prime-token-evm)
 2. [Create a Custom Token](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-genesis-evm-chain/roger-genesis-evm/type-of-contracts/apex-token-evm)
 
 ### PRESALE
