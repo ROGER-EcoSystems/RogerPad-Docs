@@ -59,6 +59,8 @@
 
 ## 🟧 STEP 4 FINALIZING AND LAUNCHING on EVM
 
+* [FINALIZING A POOL](step-4-finalizing-and-launching-on-evm/finalizing-a-pool.md)
+
 ## Group 1
 
 * [Page 1](group-1/page-1.md)
