@@ -105,9 +105,10 @@
       * [Social Media](roadmap/roadmap/usdppaws-meme-token/upcoming-events/social-media.md)
       * [Powering Success](roadmap/roadmap/usdppaws-meme-token/upcoming-events/powering-success.md)
 
-## SUPPORT
+## 🧰 SUPPORT
 
 * [🛂 SUPPORT INFO](support/support-info.md)
+* [Presale Cancellation](support/presale-cancellation.md)
 
 ## ROGER CLUBS
 
