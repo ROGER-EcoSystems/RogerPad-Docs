@@ -55,6 +55,8 @@
 
 ## 🟩 STEP 3 | POST CREATING A LAUNCHPOOL
 
+* [Editing a Sales Pool](step-3-or-post-creating-a-launchpool/editing-a-sales-pool.md)
+
 ## 🟧 STEP 4 FINALIZING AND LAUNCHING on EVM
 
 ## Group 1
