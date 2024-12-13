@@ -34,20 +34,20 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 ### TOKEN CREATION (ROGER GENESIS)
 
-1. Create a Prime Tokne ( Standard)
+1. Create a Prime Token ( Standard)
 2. Create a Custom Token
 
 ### PRESALE
 
-1. Create a PreSale
-2. Edit a PreSale&#x20;
+1. [Create a PreSale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-2-create-a-pool-on-evm/presale)
+2. [Edit a PreSale ](https://docs.rogerpad.finance/developers-corner/add-on-services/editing-a-sales-pool-by-developers)
 3. Finalize a PreSale
 4. Cancel a PreSale
 
 ### FAIR LAUNCH SALE
 
-1. Create a FairLaunch Sale
-2. Edit a FairLaunch Sale
+1. [Create a FairLaunch Sale](https://docs.rogerpad.finance/rogerpad-evm-chain/step-2-create-a-pool-on-evm/fairlaunch)
+2. [Edit a FairLaunch Sale](https://docs.rogerpad.finance/developers-corner/add-on-services/editing-a-sales-pool-by-developers)
 3. FInalize a FairLaunch Sale
 4. Cancel a PreSale
 
