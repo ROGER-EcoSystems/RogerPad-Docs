@@ -88,22 +88,25 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 ### MARKETING SERVICES
 
-1. Verified Callers
+1. [Verified Callers](https://docs.rogerpad.finance/partners/marketing-partners/verified-marketers)
 2. Listed Callers
-3. Adverting on PawsCombat
-4. Trending on RogerPad
-5. AMA with Roger System
+3. [Service Providers ( Audit, KY](https://docs.rogerpad.finance/partners/marketing-partners/service-providers)C)
+4. [Adverting on PawsCombat](https://docs.pawscombat.xyz/pawscombat/advertise)
+5. [Trending on RogerPad](https://docs.rogerpad.finance/developers-corner/trending-services)
+   1. [Organic Trending](https://docs.rogerpad.finance/developers-corner/trending-services/organic-trending)
+   2. [Paid Trending](https://docs.rogerpad.finance/developers-corner/trending-services/paid-trending)
+6. AMA with Roger System
 
 ### DOCUMENTS AND LINKS&#x20;
 
-1. PreSale Calcualtor
+1. [PreSale Calculator](https://docs.rogerpad.finance/help-center/presale-calculator)
 2. White Paper
 
 SUPPORT
 
-1. PreSale Support
-2. RogerPad Network
-3. RogerPad Chat
+1. [PreSale Support](https://t.me/presale_support)
+2. [RogerPad Network](https://rogerpad_network)
+3. [RogerPad Chat](https://t.me/roger_call)
 
 ### Main Contact
 
