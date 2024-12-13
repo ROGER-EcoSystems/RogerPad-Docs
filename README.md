@@ -53,8 +53,13 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 ### OPTIONS
 
-1. Service Fees
-2. Badges
+1. [Service Fees](https://docs.rogerpad.finance/srvice-fees/service-fees)
+2. [Badges](https://docs.rogerpad.finance/badges/badges)
+   1. K[YC Badges](https://docs.rogerpad.finance/badges/badges/kyc-badge)&#x20;
+   2. [AUDIT Badges](https://docs.rogerpad.finance/badges/badges/audit-badge)
+   3. [DOXX Badges](https://docs.rogerpad.finance/badges/badges/doxx-badge)
+   4. [SAFU Badges](https://docs.rogerpad.finance/badges/badges/safu-badge)
+   5. [BASED Badges](https://docs.rogerpad.finance/badges/badges/based-badge)
 3. Rankings
 4. Affilaite Program
 5. Bonus Buy
