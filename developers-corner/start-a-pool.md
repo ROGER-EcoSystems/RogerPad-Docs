@@ -122,6 +122,6 @@ Badges Available:
 * SAFU: Security and best practices assurance.
 * BASED: Decentralization and innovation leadership.
 
-Contact: @rogerpad\_ceo to apply for badges.
+Contact: [@rogerpad](https://t.me/rogerpad) to apply for badges.
 
 Trust the Badge. Invest with Confidence.
