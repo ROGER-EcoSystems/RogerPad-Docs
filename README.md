@@ -60,7 +60,11 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
    3. [DOXX Badges](https://docs.rogerpad.finance/badges/badges/doxx-badge)
    4. [SAFU Badges](https://docs.rogerpad.finance/badges/badges/safu-badge)
    5. [BASED Badges](https://docs.rogerpad.finance/badges/badges/based-badge)
-3. Rankings
+3. [Rankings](https://docs.rogerpad.finance/rankings/rankings/project-rankings)
+   1. [SILVER Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/silver-ranking)
+   2. [GOLD Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/gold-ranking)
+   3. [PLATINUM Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/platinum-ranking)
+   4. [DIAMOND Ranking](https://docs.rogerpad.finance/rankings/rankings/project-rankings/diamond-ranking)
 4. Affilaite Program
 5. Bonus Buy
 6. Buy Back Burn Program
