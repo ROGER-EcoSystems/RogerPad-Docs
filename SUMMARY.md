@@ -60,6 +60,7 @@
 ## 🟧 STEP 4 FINALIZING AND LAUNCHING on EVM
 
 * [FINALIZING A POOL](step-4-finalizing-and-launching-on-evm/finalizing-a-pool.md)
+* [CANCELLING A POOL BY DEV](step-4-finalizing-and-launching-on-evm/cancelling-a-pool-by-dev.md)
 
 ## Group 1
 
