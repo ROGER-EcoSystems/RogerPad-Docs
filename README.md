@@ -96,7 +96,7 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 5. [Trending on RogerPad](https://docs.rogerpad.finance/developers-corner/trending-services)
    1. [Organic Trending](https://docs.rogerpad.finance/developers-corner/trending-services/organic-trending)
    2. [Paid Trending](https://docs.rogerpad.finance/developers-corner/trending-services/paid-trending)
-6. AMA with Roger System
+6. [AMA with Roger System](https://docs.rogerpad.finance/badges/badges/ama-badge)
 
 ### DOCUMENTS AND LINKS&#x20;
 
