@@ -135,6 +135,7 @@
   * [DOXX Badge](badges/badges/doxx-badge.md)
   * [SAFU Badge](badges/badges/safu-badge.md)
   * [BASED Badge](badges/badges/based-badge.md)
+  * [AMA Badge](badges/badges/ama-badge.md)
 
 ## 🔷 DEVELOPERS CORNER
 
