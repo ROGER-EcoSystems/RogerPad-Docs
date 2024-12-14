@@ -26,6 +26,7 @@
   * [LP/Token Locking \[evm\]](roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm.md)
   * [Vesting \[evm\]](roger-guard-evm-chain/roger-guard-evm/vesting-evm.md)
   * [PreSale Vesting](roger-guard-evm-chain/roger-guard-evm/presale-vesting.md)
+  * [How to Unlock Tokens After the Locking Cycle Ends](roger-guard-evm-chain/roger-guard-evm/how-to-unlock-tokens-after-the-locking-cycle-ends.md)
 
 ## 🟪 STEP 2 CREATE A POOL on EVM
 
