@@ -103,7 +103,7 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 1. [PreSale Calculator](https://docs.rogerpad.finance/help-center/presale-calculator)
 2. White Paper
 
-SUPPORT
+## <mark style="color:blue;">SUPPORT</mark>
 
 1. [PreSale Support](https://t.me/presale_support)
 2. [RogerPad Network](https://rogerpad_network)
