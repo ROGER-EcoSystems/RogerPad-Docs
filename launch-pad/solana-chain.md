@@ -1,9 +1,5 @@
 # 🟩 SOLANA CHAIN
 
-## ["ENTER" - Solana Chain Documents](https://app.gitbook.com/s/2tqbPa3m9HBIWVFa5iz7/solana-chain/solana-chain)
-
-to go SOLANA CHAIN Documents
+### [Click here to go Solana Chain Documents](https://docs.rogerpad.finance/rogerpad-solana-chain)
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
-
-## ["ENTER" - Solana Chain Documents](https://app.gitbook.com/s/2tqbPa3m9HBIWVFa5iz7/solana-chain/solana-chain)
