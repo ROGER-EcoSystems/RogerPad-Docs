@@ -15,7 +15,7 @@
 
 ## LAUNCH PAD
 
-* [▶️ EVM CHAINS](launch-pad/evm-chains.md)
+* [🔷 EVM CHAINS](launch-pad/evm-chains.md)
 * [🟩 SOLANA CHAIN](launch-pad/solana-chain.md)
 
 ## ROGER ECO SYSTEM
