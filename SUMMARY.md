@@ -214,6 +214,6 @@
     * [Verified BDM](careers/bdm/verify-a-bdm/verified-bdm.md)
 * [Shillers](careers/shillers.md)
 
-## Group 1
+## 🧰 ROGER PRESALE BUY BOT
 
-* [Roger PreSale Buy Bot](group-1/roger-presale-buy-bot.md)
+* [Roger PreSale Buy Bot](roger-presale-buy-bot/roger-presale-buy-bot.md)
