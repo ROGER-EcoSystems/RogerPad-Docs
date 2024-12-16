@@ -213,3 +213,7 @@
   * [VERIFY A BDM](careers/bdm/verify-a-bdm/README.md)
     * [Verified BDM](careers/bdm/verify-a-bdm/verified-bdm.md)
 * [Shillers](careers/shillers.md)
+
+## Group 1
+
+* [Roger PreSale Buy Bot](group-1/roger-presale-buy-bot.md)
