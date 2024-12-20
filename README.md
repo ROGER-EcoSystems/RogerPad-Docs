@@ -134,5 +134,11 @@ Contact CEO (on emergency only): [https://t.me/rogerpad](https://t.me/rogerpad)
 
 
 
+[Terms and Conditions](https://docs.rogerpad.finance/~/changes/RIYJLOPgT1Zady8NNI0G/general-information/terms-and-conditions)
+
+[Privacy Policy](https://docs.rogerpad.finance/~/changes/RIYJLOPgT1Zady8NNI0G/general-information/privacy-policy)
+
+
+
 
 
