@@ -6,6 +6,10 @@ description: >-
 
 # Buy Back & Burn Program
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/9s69iyTpaY5LjZBLpUSCWi?origin=A9ZFWYZp5uayEXMICcT5CcHQHu62" %}
+
 <figure><img src="../../../.gitbook/assets/Buy Back 7 Burn.png" alt=""><figcaption></figcaption></figure>
 
 Presenting the Buyback Program, a meticulously structured initiative within token presales where developers strategically allocate funds for liquidity locking while earmarking a segment for scheduled token repurchases. This systematic approach involves repurchasing tokens at predetermined intervals, meticulously designed to stabilize the price chart and bolster investor confidence within the project's ecosystem.
