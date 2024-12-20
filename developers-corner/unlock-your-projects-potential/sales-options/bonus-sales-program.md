@@ -6,7 +6,15 @@ description: >-
 
 # Bonus Sales Program
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/kPHSiS95Gam26ooxXpgJzf?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
+
+
 <figure><img src="../../../.gitbook/assets/Bonus Buy.png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### Incentivizing Early Participation: Enhancing Token Distribution through the Bonus Sale Program
 
