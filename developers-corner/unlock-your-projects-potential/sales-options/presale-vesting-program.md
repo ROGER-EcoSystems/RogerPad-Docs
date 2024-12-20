@@ -2,6 +2,10 @@
 
 #### [The Presale Vesting System](https://docs.rogerpad.finance/v/rogerpad-solana-chain/solana-chain/solana-chain/roger-pad-details/varied-sales-options/vesting-program-of-rogerpad/the-presale-vesting-system) <a href="#the-presale-vesting-system" id="the-presale-vesting-system"></a>
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/afZr7Tp8bxDEEWHuQZLJsK?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 <figure><img src="../../../.gitbook/assets/Step 3 - Sales Vesting.png" alt=""><figcaption></figcaption></figure>
 
 ## Vesting Lock
