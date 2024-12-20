@@ -1,5 +1,9 @@
 # How to Claim your Token
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/sms5bWvmaDfxBnT7uVaTAj?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 Procedure for Claiming Presale Tokens on RogerPad:
 
 1. Wait for Pool Finalization: Upon reaching the soft cap/hard cap and subsequent finalization of the presale pool by the owner, participants can proceed to claim their tokens. This is indicated by the activation of the "Claim Token" button.
