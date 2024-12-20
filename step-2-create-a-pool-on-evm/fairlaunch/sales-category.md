@@ -19,6 +19,8 @@ Select the "FairLaunch" from the Sales Category list.  You can get more details 
 
 
 
+{% embed url="https://app.guidde.com/share/playbooks/b5AwW8sWPKAdg4EE9zFcMd?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 {% hint style="info" %}
 Once you select Fair Launch  Category, next Page will show the welcome page to create a pool.
 
