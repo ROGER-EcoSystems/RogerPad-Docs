@@ -218,3 +218,8 @@
 ## 🧰 ROGER PRESALE BUY BOT
 
 * [Roger PreSale Buy Bot](roger-presale-buy-bot/roger-presale-buy-bot.md)
+
+## 🟪 GENERAL INFORMATION
+
+* [Terms and Conditions](general-information/terms-and-conditions.md)
+* [Privacy Policy](general-information/privacy-policy.md)
