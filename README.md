@@ -88,9 +88,12 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 
 1. [Liquidity Locks](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm)
 2. [Token Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm)
-3. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program)
-4. [Vesting Team ](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)
-5.
+3. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program) Token
+4. [Vesting Team ](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)Token
+5. [Unlocking LP/Token Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking)
+6. [Unlocking a Vesting Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking/how-to-unlock-vesting-tokens-sales-vesting-and-team-vesting)
+7. [Trasnfer Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking/transfer-lock-ownership)
+8. [Renouce a Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking/renounce-lock-ownership)
 
 ### MARKETING SERVICES
 
