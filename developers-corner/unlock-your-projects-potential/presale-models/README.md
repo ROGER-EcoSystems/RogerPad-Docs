@@ -6,6 +6,10 @@ description: Unlock Your Token Launch Potential with RogerPad's Tailored Sales S
 
 Introducing RogerPad's Tailored Sales Solutions, where we unlock your token launch potential with precision and flexibility. Our platform offers a range of presale options designed to cater to your project's unique needs, ensuring a seamless and effective fundraising experience.
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/qK8Kd4wEQUnSwVZhx2Qa4P?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 <figure><img src="../../../.gitbook/assets/Step 3 - Sales Options.png" alt=""><figcaption></figcaption></figure>
 
 #### [PUBLIC SALE](https://docs.rogerpad.finance/devleopers-corner/presale-models/public-sale) <a href="#public-sale" id="public-sale"></a>
