@@ -10,6 +10,10 @@ description: Effortless Token Distribution, Elevated Engagement
 
 Roger Air-Drop redefines the process of token distribution by offering a more efficient, user-friendly, and cost-effective solution. Designed to simplify large-scale token airdrops, it enables developers to distribute tokens to multiple recipients at once, saving both time and money. This platform is perfect for projects looking to engage their community, reward stakeholders, or boost project adoption.
 
+
+
+{% embed url="https://app.guidde.com/share/playbooks/kaDoS9rTWAyD8KRfd3qY8o?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
 ### Key Features of Roger Air-Drop:
 
 * Efficient Mass Distribution: Roger Air-Drop allows developers to send tokens to hundreds or even thousands of recipients in a single transaction. This reduces the manual work and time associated with traditional airdrop methods, making the process smoother and faster.
