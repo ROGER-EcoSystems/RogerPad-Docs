@@ -1,4 +1,8 @@
-# How to Unlock Tokens After the Locking Cycle Ends
+---
+description: RogerGUARD
+---
+
+# Unlocking
 
 Once the locking cycle is complete, Token owners can unlock their tokens on the RogerGuard page by following these steps:
 

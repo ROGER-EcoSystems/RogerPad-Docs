@@ -26,10 +26,10 @@
   * [LP/Token Locking \[evm\]](roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm.md)
   * [Vesting \[evm\]](roger-guard-evm-chain/roger-guard-evm/vesting-evm.md)
   * [PreSale Vesting](roger-guard-evm-chain/roger-guard-evm/presale-vesting.md)
-  * [How to Unlock Tokens After the Locking Cycle Ends](roger-guard-evm-chain/roger-guard-evm/how-to-unlock-tokens-after-the-locking-cycle-ends/README.md)
-    * [How to Unlock Vesting Tokens (Sales Vesting and Team Vesting)](roger-guard-evm-chain/roger-guard-evm/how-to-unlock-tokens-after-the-locking-cycle-ends/how-to-unlock-vesting-tokens-sales-vesting-and-team-vesting.md)
-    * [Renounce Lock Ownership](roger-guard-evm-chain/roger-guard-evm/how-to-unlock-tokens-after-the-locking-cycle-ends/renounce-lock-ownership.md)
-    * [Transfer Lock Ownership](roger-guard-evm-chain/roger-guard-evm/how-to-unlock-tokens-after-the-locking-cycle-ends/transfer-lock-ownership.md)
+  * [Unlocking](roger-guard-evm-chain/roger-guard-evm/unlocking/README.md)
+    * [How to Unlock Vesting Tokens (Sales Vesting and Team Vesting)](roger-guard-evm-chain/roger-guard-evm/unlocking/how-to-unlock-vesting-tokens-sales-vesting-and-team-vesting.md)
+    * [Renounce Lock Ownership](roger-guard-evm-chain/roger-guard-evm/unlocking/renounce-lock-ownership.md)
+    * [Transfer Lock Ownership](roger-guard-evm-chain/roger-guard-evm/unlocking/transfer-lock-ownership.md)
 
 ## 🟪 STEP 2 CREATE A POOL on EVM
 

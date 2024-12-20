@@ -6,17 +6,19 @@ description: ROGERGUARD
 
 Roger Pad provides project launches with two distinct options for liquidity pool (LP) creation, catering to diverse project needs and preferences. These options offer varying levels of automation and control, allowing project owners to select the most suitable approach for their specific requirements. This summary provides an overview of Roger Pad's LP creation options, highlighting their features and considerations.
 
-> Please note: For the protection of our investors, Manual LP is permitted only during the Private Sale and Seed Phase Sale. All other sale pools must have Auto LP enabled, with a minimum of 51% of the raised funds allocated to LP. Exceptions to the 51% requirement may be made for projects that incorporate a buyback and burn program, with the combined total (LP and buyback/burn) reaching 51% or more to qualify.
+> Please note: For the protection of our investors, Manual LP is permitted only during the **Private Sale** and **Seed Phase Sale**. _<mark style="color:red;">All other sale pools must have Auto LP enabled, with a minimum of 51% of the raised funds allocated to LP.</mark>_ Exceptions to the 51% requirement may be made for projects that incorporate a buyback and burn program, with the combined total (LP and buyback/burn) reaching 51% or more to qualify.
 
 #### Automatic LP Creation: <a href="#automatic-lp-creation" id="automatic-lp-creation"></a>
 
 Roger Pad's automatic LP creation option streamlines the process of establishing liquidity pools for project launches. Integrated with efficient algorithms and platforms like Raydium DEX, this automated approach simplifies setup and management tasks, enhancing liquidity provision efficiency and supporting smoother trading experiences. However, project owners should consider potential additional fees and compatibility with different presale types when opting for automatic LP creation.
 
+<figure><img src="../../.gitbook/assets/FAHADlp.png" alt=""><figcaption></figcaption></figure>
+
 #### Manual LP Creation: <a href="#manual-lp-creation" id="manual-lp-creation"></a>
 
 Alternatively, Roger Pad offers a manual LP creation option that empowers project owners with greater control and customization capabilities. With this approach, project owners have the flexibility to tailor liquidity pool parameters to specific project requirements and market conditions. While providing enhanced control and customization options, manual LP creation typically requires more time and effort to set up and manage compared to automated methods. Project owners should carefully evaluate trade-offs, considering factors such as budget constraints and presale type compatibility when selecting manual LP creation for their project launch on Roger Pad.
 
-### Steps to Create an LP/Token Lock in Roger Guard
+### Steps to Create Token Lock in Roger Guard
 
 <figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,6 +30,22 @@ Alternatively, Roger Pad offers a manual LP creation option that empowers projec
 
 
 {% embed url="https://app.guidde.com/share/playbooks/cS9fwZNFpxfjcnjsQMe7NY?origin=UFbiIx37zURpvlsjKIYxXwsLokF3" %}
+
+### Steps to Create a Token Lock in Roger Guard:
+
+#### Before you start, make sure you connect your OWNER wallet with ENOUGH NATIVE COIN to pay for Transaction Fee and ofcourse the token (your project token) involved.
+
+1. Highlight your Choice for LP Lock or Token Locking system or Vesting Team Token or ICO
+2. Enter, depending on your choice from line 1, Contract Address for Token Locking and Pair Address for LP Lock
+3. Enter the amount of token to be included in this lock.
+4. Enter the owner wallet address. Make sure you are locking the right wallet address and can’t change afterwards.
+5. Lock till date and time in format shown. UTC
+6. Enter a name for this lock for you to identify easier later. Ex: My LP Lock
+7. Review Summary and “Approve” to pay the fees and finalize.
+
+{% hint style="info" %}
+After clicking “Approve” MetaMask will prompt you to confirm the transaction and display the associated fee. Review the details, and if everything is correct, click “Confirm” to complete the process.
+{% endhint %}
 
 ### Key Benefits:
 
