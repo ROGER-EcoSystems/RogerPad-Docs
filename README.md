@@ -71,6 +71,10 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 6. [Buy Back Burn Program](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/buy-back-and-burn-program)
 7. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program)
 8. [Vesting Team Tokens](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)
+9. [Convert a Whitelist Sale to Public Sale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/presale-models/converting-whitelist-sale-to-public-sale)
+10.
+
+
 
 ### SERVICES
 
@@ -86,9 +90,7 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 2. [Token Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/lp-token-locking-evm)
 3. [Vesting Presale](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program)
 4. [Vesting Team ](https://docs.rogerpad.finance/developers-corner/unlock-your-projects-potential/sales-options/team-vesting)
-5. [Unlocking a Lock/Vesting](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking)
-6. [Transferring a Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking/transfer-lock-ownership)
-7. [Renounce a Lock](https://docs.rogerpad.finance/rogerpad-evm-chain/roger-guard-evm-chain/roger-guard-evm/unlocking/renounce-lock-ownership)
+5.
 
 ### MARKETING SERVICES
 
@@ -129,4 +131,8 @@ PurrPaws Website: [https://purrpaws.xyz](https://purrpaws.xyz)
 PurrPaws Chat (TG): [https://purrpows\_official](https://purrpows_official)
 
 Contact CEO (on emergency only): [https://t.me/rogerpad](https://t.me/rogerpad)
+
+
+
+
 
