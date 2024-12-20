@@ -157,6 +157,7 @@
     * [Public Sale](developers-corner/unlock-your-projects-potential/presale-models/public-sale.md)
     * [Whitelist](developers-corner/unlock-your-projects-potential/presale-models/whitelist.md)
     * [Tiered Whitelist](developers-corner/unlock-your-projects-potential/presale-models/tiered-whitelist.md)
+    * [Converting Whitelist Sale to Public Sale](developers-corner/unlock-your-projects-potential/presale-models/converting-whitelist-sale-to-public-sale.md)
   * [Sales Options](developers-corner/unlock-your-projects-potential/sales-options/README.md)
     * [Bonus Sales Program](developers-corner/unlock-your-projects-potential/sales-options/bonus-sales-program.md)
     * [Affiliate Program](developers-corner/unlock-your-projects-potential/sales-options/affiliate-program/README.md)
