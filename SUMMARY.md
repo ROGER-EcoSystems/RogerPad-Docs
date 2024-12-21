@@ -166,9 +166,6 @@
     * [Buy Back & Burn Program](developers-corner/unlock-your-projects-potential/sales-options/buy-back-and-burn-program.md)
     * [PreSale Vesting Program](developers-corner/unlock-your-projects-potential/sales-options/presale-vesting-program.md)
     * [Team Vesting](developers-corner/unlock-your-projects-potential/sales-options/team-vesting.md)
-* [Trending Services](developers-corner/trending-services/README.md)
-  * [Organic Trending](developers-corner/trending-services/organic-trending.md)
-  * [Paid Trending](developers-corner/trending-services/paid-trending.md)
 * [Start a Pool](developers-corner/start-a-pool.md)
 * [ADD ON SERVICES](developers-corner/add-on-services/README.md)
   * [Roger Air Drop](developers-corner/add-on-services/roger-air-drop.md)
@@ -178,6 +175,10 @@
     * [Edit a Current Sale Pool](developers-corner/add-on-services/editing-a-sales-pool-by-developers/edit-a-current-sale-pool.md)
     * [Set Whitelisted Addresses](developers-corner/add-on-services/editing-a-sales-pool-by-developers/set-whitelisted-addresses.md)
     * [End Whitelist](developers-corner/add-on-services/editing-a-sales-pool-by-developers/end-whitelist.md)
+  * [Roger PreSale Buy Bot](developers-corner/add-on-services/roger-presale-buy-bot.md)
+* [Trending Services](developers-corner/trending-services/README.md)
+  * [Organic Trending](developers-corner/trending-services/organic-trending.md)
+  * [Paid Trending](developers-corner/trending-services/paid-trending.md)
 
 ## 🟩 INVESTORS' CORNER
 
