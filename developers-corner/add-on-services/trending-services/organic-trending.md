@@ -6,11 +6,11 @@ description: 'Trending Token Sales: Organic vs. Paid Promotions"'
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-18 at 10.47.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-18 at 10.47.11 PM.png" alt=""><figcaption></figcaption></figure>
 
 Organic Trending Token Sales: Within this section, we delve into the token sales that have organically risen to prominence on our platform. These projects have garnered significant attention and investor interest through grassroots efforts, community engagement, and the inherent appeal of their offerings. By gaining traction organically, these token sales demonstrate strong fundamentals, compelling narratives, and effective marketing strategies that resonate with the community. Investors can explore these projects with confidence, knowing that their popularity stems from genuine interest and support within the market.
 
-<figure><img src="../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
 In the pre-sale phase on the Roger Pad platform, badges play a pivotal role in influencing the trending score, which determines visibility and attractiveness to potential investors. Each badge, including Doxx, KYC, Audit, and Safu, contributes to a multiplier applied to the trending score. Specifically:
 

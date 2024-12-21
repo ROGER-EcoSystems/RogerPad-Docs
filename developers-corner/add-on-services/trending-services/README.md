@@ -15,7 +15,7 @@ layout:
 
 # Trending Services
 
-<figure><img src="../../.gitbook/assets/TRENDING.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TRENDING.png" alt=""><figcaption></figcaption></figure>
 
 RogerPad offers two trending promotional services on their platform: Organic Promotions and Paid Promotions. These services are designed to help users maximize their reach and impact within the RogerPad ecosystem.
 

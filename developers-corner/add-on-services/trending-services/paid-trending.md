@@ -1,10 +1,10 @@
 # Paid Trending
 
-<figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
 Paid Promotional Trending Token Sales: In contrast, this section focuses on token sales that have utilized paid promotions to enhance their visibility and attract investors. These projects have strategically invested in advertising campaigns, influencer partnerships, and other promotional activities to accelerate their growth and exposure on our platform. While paid promotions can provide an initial boost in visibility, investors should conduct thorough due diligence to assess the underlying fundamentals and long-term potential of these projects. By understanding the distinction between organic and paid promotions, investors can make informed decisions when exploring trending token sales on our platform.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-18 at 10.50.35 PM.png" alt=""><figcaption><p>LaunhPad Sale Part</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-18 at 10.50.35 PM.png" alt=""><figcaption><p>LaunhPad Sale Part</p></figcaption></figure>
 
 Banner Ad on Presale Pool: $500/Day
 

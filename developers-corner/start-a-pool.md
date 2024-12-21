@@ -84,7 +84,15 @@ Benefits: Increased visibility, direct engagement, and enhanced trust among pote
 
 ***
 
-## 6. RogerFomoBot
+## 6. Buy Bot
+
+### RogerPresale\_Bot
+
+Presale Buy Bot for RogerPad Exclusively.  Add to your group:[ @rogerpresale\_bot](https://t.me.rogerpresale_bot)
+
+[Explore More](https://docs.rogerpad.finance/roger-presale-buy-bot/roger-presale-buy-bot)
+
+### RogerFOMOBot
 
 Boost exposure with FOMO-driven announcements and banner advertising. RogerFomoBot is a popular buy notification bot perfect for hosting competitions and amplifying community engagement.
 

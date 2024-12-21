@@ -171,14 +171,14 @@
   * [Roger Air Drop](developers-corner/add-on-services/roger-air-drop.md)
   * [LP Creation](developers-corner/add-on-services/lp-creation.md)
   * [Roger FOMO Bot](developers-corner/add-on-services/roger-fomo-bot.md)
-  * [⏩ Editing a Sales Pool by Developers](developers-corner/add-on-services/editing-a-sales-pool-by-developers/README.md)
-    * [Edit a Current Sale Pool](developers-corner/add-on-services/editing-a-sales-pool-by-developers/edit-a-current-sale-pool.md)
-    * [Set Whitelisted Addresses](developers-corner/add-on-services/editing-a-sales-pool-by-developers/set-whitelisted-addresses.md)
-    * [End Whitelist](developers-corner/add-on-services/editing-a-sales-pool-by-developers/end-whitelist.md)
   * [Roger PreSale Buy Bot](developers-corner/add-on-services/roger-presale-buy-bot.md)
-* [Trending Services](developers-corner/trending-services/README.md)
-  * [Organic Trending](developers-corner/trending-services/organic-trending.md)
-  * [Paid Trending](developers-corner/trending-services/paid-trending.md)
+  * [Trending Services](developers-corner/add-on-services/trending-services/README.md)
+    * [Organic Trending](developers-corner/add-on-services/trending-services/organic-trending.md)
+    * [Paid Trending](developers-corner/add-on-services/trending-services/paid-trending.md)
+* [⏩ Editing a Sales Pool by Developers](developers-corner/editing-a-sales-pool-by-developers/README.md)
+  * [Edit a Current Sale Pool](developers-corner/editing-a-sales-pool-by-developers/edit-a-current-sale-pool.md)
+  * [Set Whitelisted Addresses](developers-corner/editing-a-sales-pool-by-developers/set-whitelisted-addresses.md)
+  * [End Whitelist](developers-corner/editing-a-sales-pool-by-developers/end-whitelist.md)
 
 ## 🟩 INVESTORS' CORNER
 
