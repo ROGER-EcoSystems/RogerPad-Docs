@@ -21,5 +21,5 @@ Twitter: [https://twitter.com/criptogemas\_r4h](https://twitter.com/criptogemas_
 OWNER: [@IsmaelCripto](https://t.me/IsmaelCripto)
 
 {% hint style="info" %}
-Reccommended by [CEO](https://t.me/rogerpad).  Persoanlly have used him sevral tiems and reccommed all day.
+Reccommended by [CEO](https://t.me/rogerpad).  Persoanlly have used him sevral times and reccommed all day.
 {% endhint %}
