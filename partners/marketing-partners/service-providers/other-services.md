@@ -1,8 +1,8 @@
 # Other Services
 
-This page is for miscellanoues needed services that will enbale your crypto porjct to next level.
+This page is for miscellaneous needed services that will enable your crypto project to next level.
 
-Trending & Lsiting Sevices on Multiple Patforms
+Trending & Listing Sevices on Multiple Platforms
 
 ## PUMPitUP by Alex
 
