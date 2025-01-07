@@ -1,8 +1,21 @@
+---
+description: DIAMONDRANKING CALLERS
+---
+
 # Tier 1 Premium
 
 ## TIER 1 VERIFIED CALLERS
 
-### 1. CRYPTOMAX CALLS
+### 1. Who Dis ( Verified Telegram/Twitter Caller)
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-07 095713.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+Main Chat: [https://t.me/WhoDis6964 \
+](https://t.me/WhoDis6964)X: https://x.com/Whodis6964
+
+Owner: @Titan6964
+
+### 2. CRYPTOMAX CALLS
 
 
 
