@@ -42,7 +42,7 @@ By committing to these responsibilities and utilizing your expertise, you will p
 
 ## Contact Information
 
-CEO:  [@ROGERAPD](https://t.me/ROGERPAD)
+CEO: [ @RogerPad](https://t.me/rogerpad)
 
 \
 
