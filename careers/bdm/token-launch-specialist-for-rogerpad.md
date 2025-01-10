@@ -43,12 +43,3 @@ By committing to these responsibilities and utilizing your expertise, you will p
 ## Contact Information
 
 CEO: [ @RogerPad](https://t.me/rogerpad)
-
-\
-
-
-
-
-&#x20;
-
-Business De
