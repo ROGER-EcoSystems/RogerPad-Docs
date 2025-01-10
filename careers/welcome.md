@@ -29,7 +29,7 @@ Eligibility Requirements:
 
 ## How to Apply:
 
-If you’re ready to join our team, send a direct message to https://t.me/rogerpad\_Careers,  including:
+If you’re ready to join our team, send a direct message to [https://t.me/rogerpad\_Careers](https://t.me/rogerpad_Careers),  including:
 
 * Your motivation for becoming a Business Development Manager.
 * A brief summary of your relevant skills or experience.
