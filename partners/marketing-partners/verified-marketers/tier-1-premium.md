@@ -33,7 +33,7 @@ Contact: [https://t.me/madmax18alt](https://t.me/madmax18alt)
 
 ## 3. CRYPTOM AMA LOUNGE
 
-<figure><img src="../../../.gitbook/assets/CRYPTO AMA LOUNGE.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CRYPTO AMA LOUNGE.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
 Main: [https://t.me/CryptoAMALounge](https://t.me/CryptoAMALounge)
 
@@ -43,7 +43,52 @@ Contact: @[shah\_shahhhh](https://t.me/shah_shahhhh) | @[Wednesday3780](https://
 
 
 
+## 4. TOKYO GEMS
 
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 102734.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
+Channel: [https://t.me/TOKYOGEMS](https://t.me/TOKYOGEMS)
 
+Lounge:  https://t.me/TokyoGemsLounge&#x20;
 
+Owner : [@Evelynevii](https://t.me/Evelynevii)
+
+## 5. LION WING LOUNGE
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 102941.jpeg" alt="" width="188"><figcaption></figcaption></figure>
+
+✔Telegram channel [https://t.me/Lionswingtalk ](https://t.me/Lionswingtalk)
+
+Telgeram Grup  :-[ https://t.me/LionwingLounge ](https://t.me/LionwingLounge)
+
+Owner : [@Lion\_wing ](https://t.me/Lion_wing)
+
+Our services ⊕Tg Voice AMA / Video AMA ⊕Text AMA ⊕Pin Post+All Updates ⊕BuyBot+PinPost ⊕PartnerShip
+
+## 6. WONDER WOMEN LOUNGE
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 103103.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+[https://t.me/WonderWomenLounge ](https://t.me/WonderWomenLounge)
+
+[https://t.me/WonderWomenLounge](https://t.me/WonderWomenLounge)
+
+Owner : [@SusanagallegoisAlt1](https://t.me/SusanagallegoisAlt1)
+
+## 7. MAD WHALES
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 103223.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+[https://t.me/MadWhalez ](https://t.me/MadWhalez)
+
+[https://t.me/MadWhalezRoom](https://t.me/MadWhalezRoom)
+
+Owner : [@SarahMadWhalez](https://t.me/SarahMadWhalez)
+
+## 8. MOTHER OF THE DRAGON CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 103339.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+[https://t.me/MotherOfTheDragonCalls](https://t.me/MotherOfTheDragonCalls)
+
+Owner : [@MotherofthedragonAlt1](https://t.me/MotherofthedragonAlt1)
