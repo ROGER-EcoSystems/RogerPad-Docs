@@ -31,6 +31,16 @@ X:  [https://x.com/CryptoMaxLounge?s=09](https://x.com/CryptoMaxLounge?s=09)
 
 Contact: [https://t.me/madmax18alt](https://t.me/madmax18alt)
 
+## 3. CRYPTOM AMA LOUNGE
+
+<figure><img src="../../../.gitbook/assets/CRYPTO AMA LOUNGE.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+Main: [https://t.me/CryptoAMALounge](https://t.me/CryptoAMALounge)
+
+Channel: [https://t.me/CryptoAMAloungeCalls](https://t.me/CryptoAMAloungeCalls)​
+
+Contact: @[shah\_shahhhh](https://t.me/shah_shahhhh) | @[Wednesday3780](https://t.me/Wednesday3780)
+
 
 
 
