@@ -4,7 +4,7 @@
 
 <figure><img src="../../../.gitbook/assets/4 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">CRYPTO GEMAS R4H</mark>
+## <mark style="color:blue;">1. CRYPTO GEMAS R4H</mark>
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-05 120032.jpeg" alt="" width="101"><figcaption></figcaption></figure>
 

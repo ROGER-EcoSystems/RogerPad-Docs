@@ -1,12 +1,17 @@
 ---
-description: DIAMONDRANKING CALLERS
+description: rogerpad.finance
 ---
 
 # Tier 1 Premium
 
 ## TIER 1 VERIFIED CALLERS
 
-### 1. Who Dis ( Verified Telegram/Twitter Caller)
+As a **Verified Caller**, you are part of our **Tier 1 category**, offering high-quality support for project promotions. However, developers hiring Tier 1 Callers should note that **each Caller operates independently**, and the approach to project calls may vary.
+
+<mark style="color:blue;">**Disclaimer to Developers:**</mark>\
+While we verify and onboard Tier 1 Callers, we encourage you to **have direct conversations with the Callers** to ensure alignment with your project’s goals and expectations. RogerPad does not take responsibility for decisions made or outcomes resulting from collaborations between developers and Callers. It is the sole responsibility of developers to assess and finalize such partnerships.
+
+## 1. Who Dis ( Verified Telegram/Twitter Caller)
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-07 095713.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -15,7 +20,9 @@ Main Chat: [https://t.me/WhoDis6964 \
 
 Owner: [@Titan6964](https://t.me/Titan6964)
 
-### 2. CRYPTOMAX CALLS
+
+
+## 2. CRYPTOMAX CALLS
 
 
 
@@ -95,10 +102,11 @@ Owner : [@MotherofthedragonAlt1](https://t.me/MotherofthedragonAlt1)
 
 
 
-## DIGITAL CAFE&#x20;
+## 9. DIGITAL CAFE&#x20;
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 125505.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
 [https://t.me/DigitalCafeAmaLounge](https://t.me/DigitalCafeAmaLounge)
 
 Owner : [@honeyshah7950](https://t.me/honeyshah7950)
+
