@@ -11,14 +11,15 @@ description: rogerpad.finance
 > <mark style="color:blue;">**Disclaimer to Developers:**</mark>\
 > While we verify and onboard Tier 1 Callers, we encourage you to **have direct conversations with the Callers** to ensure alignment with your project’s goals and expectations. RogerPad does not take responsibility for decisions made or outcomes resulting from collaborations between developers and Callers. It is the sole responsibility of developers to assess and finalize such partnerships.
 
-## 1. Who Dis ( Verified Telegram/Twitter Caller)
+## 1. RONALD WHALES ( Verified Telegram Caller)
 
-<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-07 095713.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_20250113_200431_053.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
-Main Chat: [https://t.me/WhoDis6964 \
-](https://t.me/WhoDis6964)X: [https://x.com/Whodis6964](https://x.com/Whodis6964)
+Channel: [https://t.me/Ronald\_whales](https://t.me/Ronald_whales)
 
-Owner: [@Titan6964](https://t.me/Titan6964)
+Lounge: [https://t.me/Ronald\_Lounge](https://t.me/Ronald_Lounge)
+
+Contact : [@Ronald\_COO](https://t.me/Ronald_COO)
 
 
 
@@ -119,3 +120,15 @@ Owner : [@honeyshah7950](https://t.me/honeyshah7950)
 Private Link: [https://t.me/+\_-XPRZaeayhlNGM0](https://t.me/+_-XPRZaeayhlNGM0)&#x20;
 
 Contact: [@Georgia333](https://t.me/Georgia333)
+
+
+
+## 11. REUTERS GEM CALL
+
+<figure><img src="../../../.gitbook/assets/ReutersGemCall Channel Logo.png" alt="" width="128"><figcaption></figcaption></figure>
+
+Private Group : [https://t.me/+sb4MxIEgMVoxYmI0](https://t.me/+sb4MxIEgMVoxYmI0)
+
+X Platform : [https://x.com/reutersgemcall](https://x.com/reutersgemcall)
+
+Contact: [@Mr\_Muho](https://t.me/Mr_Muho)
