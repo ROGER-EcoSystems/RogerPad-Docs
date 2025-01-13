@@ -2,7 +2,17 @@
 
 ## Verified Callers in #Platinum Rank
 
-<figure><img src="../../../.gitbook/assets/4 (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (2).png" alt="" width="188"><figcaption></figcaption></figure>
+
+> #### <mark style="color:blue;">**Platinum-Ranked Callers**</mark>
+>
+> Our **Platinum-Ranked Callers** are an elite group, handpicked by the CEO for their exceptional ability to support and promote projects effectively. As a Platinum Caller, you represent the highest standard of trust and performance within the RogerPad ecosystem.
+>
+> <mark style="color:blue;">**Note to Developers:**</mark>\
+> While Platinum Callers are verified by RogerPad, we encourage developers hiring them to **engage in direct discussions** to align on expectations and deliverables. Each Caller operates independently, and their approach to project promotion may vary.
+>
+> <mark style="color:orange;">**Disclaimer:**</mark>\
+> RogerPad provides a platform to connect developers with Platinum Callers but does not assume responsibility for decisions or outcomes resulting from such collaborations. Developers are solely responsible for conducting due diligence and making informed choices when working with Callers.
 
 ## <mark style="color:blue;">1. CRYPTO GEMAS R4H</mark>
 
