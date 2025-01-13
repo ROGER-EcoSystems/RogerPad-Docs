@@ -110,3 +110,12 @@ Owner : [@MotherofthedragonAlt1](https://t.me/MotherofthedragonAlt1)
 
 Owner : [@honeyshah7950](https://t.me/honeyshah7950)
 
+
+
+## 10. GEORGIA SERVICES
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 142744.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+Private Link: [https://t.me/+\_-XPRZaeayhlNGM0](https://t.me/+_-XPRZaeayhlNGM0)&#x20;
+
+Contact: [@Georgia333](https://t.me/Georgia333)
