@@ -25,9 +25,9 @@ In addition to these EVM chains, we will also support **Solana**, a high-perform
 
 ### <mark style="color:blue;">Future Expansion</mark>
 
-As outlined in our roadmap, we have plans to expand our services to additional blockchains. This will enable us to accommodate a wider range of projects and provide even more flexibility and options for our users. The details of our expansion plans will be shared as we progress.
+As outlined in our roadmap, we have plans to expand our services to additional blockchains. This will enable us to accommodate a wider range of projects and provide even more flexibility and options for our users. The details of our expansion plans will be shared as we progress. [More Details](../../roger-eco-system/roger-eco-system/roger-multi-chain-expansion.md)
 
-#### Commitment to Safety and Affordability
+### Commitment to Safety and Affordability
 
 RogerPad's primary goal is to provide a secure environment for token launches. We have implemented rigorous security measures to protect our users from potential threats. Our platform ensures that projects can raise funds affordably, minimizing the financial barriers to entry and fostering innovation.
 
