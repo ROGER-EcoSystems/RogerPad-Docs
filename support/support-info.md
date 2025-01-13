@@ -1,5 +1,7 @@
 ---
-description: We are 24/7 for you.   Please use only official social media to contact us.
+description: >-
+  We are here 24/7 for you.   Please use only official social media to contact
+  us.
 ---
 
 # 🛂 SUPPORT INFO
