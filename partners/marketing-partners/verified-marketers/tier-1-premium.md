@@ -4,12 +4,12 @@ description: rogerpad.finance
 
 # Tier 1 Premium
 
-## TIER 1 VERIFIED CALLERS
+## <mark style="color:green;">TIER 1 VERIFIED Premium CALLERS</mark>
 
-As a **Verified Caller**, you are part of our **Tier 1 category**, offering high-quality support for project promotions. However, developers hiring Tier 1 Callers should note that **each Caller operates independently**, and the approach to project calls may vary.
-
-<mark style="color:blue;">**Disclaimer to Developers:**</mark>\
-While we verify and onboard Tier 1 Callers, we encourage you to **have direct conversations with the Callers** to ensure alignment with your project’s goals and expectations. RogerPad does not take responsibility for decisions made or outcomes resulting from collaborations between developers and Callers. It is the sole responsibility of developers to assess and finalize such partnerships.
+> As a **Verified Caller**, you are part of our **Tier 1 category**, offering high-quality support for project promotions. However, developers hiring Tier 1 Callers should note that **each Caller operates independently**, and the approach to project calls may vary.
+>
+> <mark style="color:blue;">**Disclaimer to Developers:**</mark>\
+> While we verify and onboard Tier 1 Callers, we encourage you to **have direct conversations with the Callers** to ensure alignment with your project’s goals and expectations. RogerPad does not take responsibility for decisions made or outcomes resulting from collaborations between developers and Callers. It is the sole responsibility of developers to assess and finalize such partnerships.
 
 ## 1. Who Dis ( Verified Telegram/Twitter Caller)
 
