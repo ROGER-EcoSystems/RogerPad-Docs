@@ -84,6 +84,7 @@ RogerPad is a cutting-edge blockchain launchpad within the **Roger Eco System**,
 4. [PurrPaws ](https://docs.pawscombat.xyz/)
 5. P[awsCombat\_bot](https://docs.pawscombat.xyz/pawscombat/paws-combat)
 6. [PreSale\_Bot](https://docs.rogerpad.finance/roger-presale-buy-bot/roger-presale-buy-bot)
+7. [RogerPadLaunch\_bot](partners-corner/partners-corner/rogerpad-launch-bot.md)
 
 ### LOCK (Roger Guard)
 

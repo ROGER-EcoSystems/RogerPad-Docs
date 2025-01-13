@@ -193,7 +193,7 @@
 
 ## PARTNER'S CORNER
 
-* [PARTNER'S CORNER](partners-corner/partners-corner/README.md)
+* [PARTNER'S CORNER](partners-corner/partners-corner.md)
   * [RogerPad Launch Bot](partners-corner/partners-corner/rogerpad-launch-bot.md)
 
 ## HELP CENTER
