@@ -16,3 +16,17 @@ While we verify and onboard Tier 2 Callers, we encourage you to **have direct co
 [https://t.me/blackpantherhub](https://t.me/blackpantherhub)
 
 Owner : [@ALBERDOALT15](https://t.me/ALBERDOALT15)
+
+
+
+## 2. POSEDION CALL
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-13 142451.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+[HTTPS://T.ME/PosediionAma](https://t.me/PosediionAma)
+
+[https://t.me/+z64GfccAhBI5OGI0](https://t.me/+z64GfccAhBI5OGI0)
+
+[https://x.com/POSEDIONCALL?t=vBZvg5ukhpwDrDcVrIyHKQ\&s=35 ](https://x.com/POSEDIONCALL?t=vBZvg5ukhpwDrDcVrIyHKQ\&s=35)
+
+CONTACT: [@Crypto190333](https://t.me/Crypto190333)
