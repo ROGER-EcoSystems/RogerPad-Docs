@@ -128,11 +128,11 @@ Main Twitter: [https://x.com/rogerpad\_main](https://x.com/rogerpad_main)
 
 LinkTree:[ https://linktr.ee/rogerpad](https://linktr.ee/rogerpad)
 
-PawsCombat Game: [https://t.me/pawscomabt\_bot](https://t.me/pawscomabt_bot)
+PawsCombat Game: [https://t.me/pawscombat\_bot](https://t.me/pawscombat_bot)
 
 PurrPaws Website: [https://purrpaws.xyz](https://purrpaws.xyz)
 
-PurrPaws Chat (TG): [https://purrpows\_official](https://purrpows_official)
+PurrPaws Chat (TG): [https://purrpaws\_official](https://purrpaws_official)
 
 Contact CEO (on emergency only): [https://t.me/rogerpad](https://t.me/rogerpad)
 
