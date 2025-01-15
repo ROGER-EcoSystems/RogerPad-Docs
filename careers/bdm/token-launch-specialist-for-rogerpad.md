@@ -15,7 +15,7 @@ Leverage your networking abilities and industry expertise to identify potential 
 Engage with these developers by effectively presenting the advantages of launching with RogerPad. Utilize your in-depth knowledge of the platform’s capabilities and benefits to convince them to choose RogerPad for their project’s launch.
 
 3\. Facilitating Communication:\
-Once a developer expresses interest, act as a liaison by creating a Telegram group with the CEO (@rogerpad\_ceo) and inviting the prospective developer. The CEO and the RogerPad team will address any questions or concerns to help facilitate the decision-making process.
+Once a developer expresses interest, act as a liaison by creating a Telegram group with the CEO (@rogerpad) and inviting the prospective developer. The CEO and the RogerPad team will address any questions or concerns to help facilitate the decision-making process.
 
 ## Rewards:
 
