@@ -6,7 +6,7 @@ description: Empowering Your Crypto Future
 
 Prime Token is designed to offer project owners enhanced flexibility and control compared to a Simple Token. This type of token includes several advanced features that allow for a more tailored approach to managing and promoting your project.
 
-\[Create a Prime Tokne NOW] \[[FEES](https://docs.rogerpad.finance/srvice-fees/service-fees)]
+\[[Create a Prime Token NOW](https://rogerpad.io)] \[[FEES](https://docs.rogerpad.finance/srvice-fees/service-fees)]
 
 
 

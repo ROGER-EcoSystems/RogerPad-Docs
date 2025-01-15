@@ -12,5 +12,5 @@ RogerPad leads blockchain innovation, providing developers tools for token creat
 
 
 
-> \[Create a Lock NOW]
+> \[[Create a Lock NOW](https://rogerpad.io)]
 

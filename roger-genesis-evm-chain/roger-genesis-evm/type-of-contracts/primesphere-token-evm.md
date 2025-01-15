@@ -1,5 +1,6 @@
 ---
 description: Elevating Token Utility and Value
+hidden: true
 ---
 
 # PrimeSphere Token \[evm]

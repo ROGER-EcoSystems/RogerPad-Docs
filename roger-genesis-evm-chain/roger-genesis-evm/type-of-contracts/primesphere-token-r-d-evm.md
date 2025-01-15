@@ -1,12 +1,13 @@
 ---
 description: A Revolutionary Concept by RogerPad
+hidden: true
 ---
 
 # PrimeSphere Token  (R/D) \[EVM]
 
 PrimeSphere R/D is an innovative offering from RogerPad, incorporating two distinct token functionalities to cater to diverse project needs: Reflection Token and Dividend Token. These options allow project owners to choose the model that best suits their goals and provides optimal benefits to their token holders.
 
-<figure><img src="../../../.gitbook/assets/20 (1).png" alt=""><figcaption></figcaption></figure>
+&#x20; [Request a Custom (APEX) Contract Now](https://forms.gle/iZk8XHXaBFtF5NTFA) | Contact CEO directly: [@rogerpad](https://t.me/rogerpad)
 
 #### Reflection Token
 
