@@ -1,8 +1,10 @@
-# 💲 Service Fees
+---
+description: rogerpad.finance
+---
 
-Special Launch Offer for RogerPad
+# 💲 Regular Service Fees
 
-Take advantage of our special service fees developed for the upcoming launch of RogerPad! Save your spot now and enjoy the benefits.
+Regular Servcie charges
 
 &#x20;
 
@@ -13,6 +15,6 @@ Take advantage of our special service fees developed for the upcoming launch of 
 
 <mark style="color:red;">Please click link to see service charges for all chains:</mark>
 
-{% file src="../.gitbook/assets/SERVICE CHARGES .pdf" %}
+{% file src="../../.gitbook/assets/SERVICE CHARGES REGULAR .pdf" %}
 
 Secure your place today and be part of our innovative launchpad platform.

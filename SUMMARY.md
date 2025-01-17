@@ -82,7 +82,9 @@
 
 ## SRVICE FEES
 
-* [💲 Service Fees](srvice-fees/service-fees.md)
+* [💲 Service Fees](srvice-fees/service-fees/README.md)
+  * [💲 Special Rates](srvice-fees/service-fees/special-rates.md)
+  * [💲 Regular Service Fees](srvice-fees/service-fees/regular-service-fees.md)
 
 ## ROADMAP
 
