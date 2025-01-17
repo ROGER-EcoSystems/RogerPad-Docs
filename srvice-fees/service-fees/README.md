@@ -20,7 +20,7 @@ Once there, verify the identity of a tagged Business Development Manager (BDM) o
 
 #### Pricing Information:
 
-1. **Special Rates** for the first 50 projects.
-2. Standard pricing for subsequent projects.
+1. [**Special Rates** for the first 50 projects.](special-rates.md)
+2. [**Standard pricing** for subsequent projects.](regular-service-fees.md)
 
 Secure your place today and be part of our innovative launchpad platform.
