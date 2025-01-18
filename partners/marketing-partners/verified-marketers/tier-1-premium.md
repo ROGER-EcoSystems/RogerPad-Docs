@@ -132,3 +132,17 @@ Private Group : [https://t.me/+sb4MxIEgMVoxYmI0](https://t.me/+sb4MxIEgMVoxYmI0)
 X Platform : [https://x.com/reutersgemcall](https://x.com/reutersgemcall)
 
 Contact: [@Mr\_Muho](https://t.me/Mr_Muho)
+
+
+
+## CRYPTO BOSS CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 200829.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+CHANNEL: [https://t.me/CryptoBossCalls ](https://t.me/CryptoBossCalls)
+
+GAMBLE: [https://t.me/CryptoBossGamble](https://t.me/CryptoBossGamble)&#x20;
+
+X: https://x.com/CryptoBossCalls&#x20;
+
+CONTACT: [@Mg\_23077](https://t.me/Mg_23077)
