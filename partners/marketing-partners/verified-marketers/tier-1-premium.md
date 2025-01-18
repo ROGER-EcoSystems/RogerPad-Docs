@@ -113,17 +113,7 @@ Owner : [@honeyshah7950](https://t.me/honeyshah7950)
 
 
 
-## 10. GEORGIA SERVICES
-
-<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 142744.jpeg" alt="" width="160"><figcaption></figcaption></figure>
-
-Private Link: [https://t.me/+\_-XPRZaeayhlNGM0](https://t.me/+_-XPRZaeayhlNGM0)&#x20;
-
-Contact: [@Georgia333](https://t.me/Georgia333)
-
-
-
-## 11. REUTERS GEM CALL
+## 10. REUTERS GEM CALL
 
 <figure><img src="../../../.gitbook/assets/ReutersGemCall Channel Logo.png" alt="" width="128"><figcaption></figcaption></figure>
 
@@ -135,7 +125,7 @@ Contact: [@Mr\_Muho](https://t.me/Mr_Muho)
 
 
 
-## 12. CRYPTO BOSS CALLS
+## 11. CRYPTO BOSS CALLS
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 200829.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -149,7 +139,7 @@ CONTACT: [@Mg\_23077](https://t.me/Mg_23077)
 
 
 
-## 13. MARVELS CALLS
+## 12. MARVELS CALLS
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-17 164954.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
