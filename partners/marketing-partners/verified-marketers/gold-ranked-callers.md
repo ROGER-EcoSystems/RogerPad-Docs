@@ -20,3 +20,18 @@ Main Chat: [https://t.me/WhoDis6964 \
 ](https://t.me/WhoDis6964)X: [https://x.com/Whodis6964](https://x.com/Whodis6964)
 
 Owner: [@Titan6964](https://t.me/Titan6964)
+
+
+
+## 2. BIG BANG CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-17 165148.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+CHANNEL: [httpds://t.me/BigBangCall ](httpds://t.me/BigBangCall)
+
+LOUNGE: [https://t.me/BigBangLounge ](https://t.me/BigBangLounge)
+
+X: [https://x.com/Big\_Bang\_X ](https://x.com/Big_Bang_X)
+
+CONTACT: [@Farhad\_Loyal](https://t.me/Farhad_Loyal)
+
