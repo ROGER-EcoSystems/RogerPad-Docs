@@ -135,7 +135,7 @@ Contact: [@Mr\_Muho](https://t.me/Mr_Muho)
 
 
 
-## CRYPTO BOSS CALLS
+## 12. CRYPTO BOSS CALLS
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 200829.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -146,3 +146,13 @@ GAMBLE: [https://t.me/CryptoBossGamble](https://t.me/CryptoBossGamble)&#x20;
 X: https://x.com/CryptoBossCalls&#x20;
 
 CONTACT: [@Mg\_23077](https://t.me/Mg_23077)
+
+
+
+## MARVELS CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-17 164954.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+MAIN CHAT: [https://t.me/Marvels\_Calls ](https://t.me/Marvels_Calls)
+
+CONTACT: [@shahroze](https://t.me/shahroze)
