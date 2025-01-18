@@ -76,7 +76,7 @@
     * [CEX Listing Partners](partners/marketing-partners/service-providers/cex-listing-partners.md)
     * [Other Services](partners/marketing-partners/service-providers/other-services/README.md)
       * [Press Releases](partners/marketing-partners/service-providers/other-services/press-releases.md)
-    * [TRENDING & LISTING SERVICES](partners/marketing-partners/service-providers/trending-and-listing-services.md)
+      * [TRENDING & LISTING SERVICES](partners/marketing-partners/service-providers/other-services/trending-and-listing-services.md)
   * [Listed Marketers](partners/marketing-partners/listed-marketers.md)
 * [BDM](partners/bdm/README.md)
   * [Verified Listing Managers](partners/bdm/verified-listing-managers.md)
