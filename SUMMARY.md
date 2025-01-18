@@ -83,6 +83,7 @@
 ## SRVICE FEES
 
 * [💲 Service Fees](srvice-fees/service-fees/README.md)
+  * [🆚 LAUNCH SPECIAL](srvice-fees/service-fees/launch-special.md)
   * [💲 Special Rates](srvice-fees/service-fees/special-rates.md)
   * [💲 Regular Service Fees](srvice-fees/service-fees/regular-service-fees.md)
 
