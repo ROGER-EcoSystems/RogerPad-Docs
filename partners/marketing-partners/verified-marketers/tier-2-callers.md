@@ -30,3 +30,23 @@ Owner : [@ALBERDOALT15](https://t.me/ALBERDOALT15)
 [https://x.com/POSEDIONCALL?t=vBZvg5ukhpwDrDcVrIyHKQ\&s=35 ](https://x.com/POSEDIONCALL?t=vBZvg5ukhpwDrDcVrIyHKQ\&s=35)
 
 CONTACT: [@Crypto190333](https://t.me/Crypto190333)
+
+
+
+## CHINESE APES
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 201035.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+MAIN CHANNEL: [https://t.me/chineseApes](https://t.me/chineseApes)
+
+CONTACT: [@ChineseApesOwner](https://t.me/ChineseApesOwner)
+
+
+
+## OWL CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 201231.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+MAIN CHANNEL: [https://t.me/CryptoOWLcalls ](https://t.me/CryptoOWLcalls)
+
+CONTACT: [@diy246](https://t.me/diy246)
