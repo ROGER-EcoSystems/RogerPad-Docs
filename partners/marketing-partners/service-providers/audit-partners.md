@@ -1,12 +1,16 @@
-# AUDIT Partners
+# ⚖️ AUDIT Partners
 
+### <mark style="color:blue;">OUR PREFERRED CHOICE</mark>
 
+## BETTER LOGICS
+
+CONTACT: HTTPS://ETHEREUM\_007
+
+#### ALSO AVAILABLE
 
 ## ICSA
 
 Home of all CryptoEntertainment LTD Brands&#x20;
-
-<figure><img src="broken-reference" alt="" width="188"><figcaption></figcaption></figure>
 
 KYC LINK : [icsa.website/rogerpad](https://icsa.website/rogerpad)
 

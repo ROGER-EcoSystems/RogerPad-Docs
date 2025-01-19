@@ -1,10 +1,10 @@
-# KYC Partners
+# ♎ KYC Partners
 
-
+PLEASE CONTACT [HTTPS://T.ME/ROGERPAD](https://t.me/ROGERPAD) (CEO) BEFORE OREDRIGN ANY KYC.
 
 ### ASURE DEFI
 
-<figure><img src="broken-reference" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Copy of Verified Seal.png" alt="" width="188"><figcaption></figcaption></figure>
 
 X: [x.com/assuredefi/ ](https://x.com/assuredefi/)
 
@@ -20,14 +20,12 @@ TG Ann: [t.me/assuredefi/](https://t.me/assuredefi/)
 
 Home of all CryptoEntertainment LTD Brands&#x20;
 
-<figure><img src="broken-reference" alt="" width="188"><figcaption></figcaption></figure>
-
 KYC LINK : [icsa.website/rogerpad](https://icsa.website/rogerpad)
 
 
 
 Main: [@celtd ](https://t.me/CELTF)
 
-Contact: [@lord\_cryptoo](https://t.me/lord\_cryptoo)
+Contact: [@lord\_cryptoo](https://t.me/lord_cryptoo)
 
 Website: [ICsa.website](https://icsa.website)
