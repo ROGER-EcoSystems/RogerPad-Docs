@@ -22,4 +22,4 @@ VERIFIED BDM.
 
 #### 1. @[SaimListing](https://t.me/SaimListing)
 
-#### 2. @[attiQue\_kiani](https://t.me/attiQue_kiani)
+#### 2.&#x20;
