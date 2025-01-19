@@ -2,7 +2,7 @@
 description: Marketing Partners on All Social Media Platforms
 ---
 
-# Be a Verified Partner
+# Be a Verified Marketer
 
 RogerPad invites Promoters, Influencers, Call Groups, AMA Groups, and other crypto-related marketers from all social media platforms to join our partnership program. Whether you're active on Twitter, Telegram, Discord, or another platform, we encourage you to apply and become part of our growing network.
 

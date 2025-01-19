@@ -1,10 +1,16 @@
 # ⚖️ AUDIT Partners
 
-### <mark style="color:blue;">OUR PREFERRED CHOICE</mark>
+### <mark style="color:red;">OUR PREFERRED CHOICE</mark>
 
-## BETTER LOGICS
+## BLOCK SOLUTIONS
 
-CONTACT: HTTPS://ETHEREUM\_007
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-19 081241.jpeg" alt="" width="160"><figcaption><p><a href="https://blocksolution.netlify.app/">https://blocksolution.netlify.app/</a></p></figcaption></figure>
+
+CONTACT: [@BlockSolution](https://t,me/BlockSolution)
+
+WebSite: [https://blocksolution.netlify.app/](https://blocksolution.netlify.app/)
+
+RogerPad Audits: [https://github.com/BetterLogicTeam/RogerPad\_MultiChain\_Launchpad](https://github.com/BetterLogicTeam/RogerPad_MultiChain_Launchpad)
 
 #### ALSO AVAILABLE
 
