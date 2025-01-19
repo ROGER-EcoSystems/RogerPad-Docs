@@ -4,7 +4,7 @@ description: >-
   https://t.me/rogerpad
 ---
 
-# Verified Marketers
+# 🎙️ Verified Marketers
 
 At RogerPad, we employ rigorous methods to ensure our marketers are among the best in the industry. Our selection process includes comprehensive vetting, performance evaluations, and ongoing training to maintain the highest standards of quality and effectiveness.
 

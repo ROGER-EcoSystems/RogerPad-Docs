@@ -1,4 +1,4 @@
-# Platinum Ranked Callers
+# 🥈 Platinum Ranked Callers
 
 ## Verified Callers in #Platinum Rank
 

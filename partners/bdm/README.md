@@ -3,7 +3,7 @@ description: RogerPad - Launch Safe, Raise Affordably
 hidden: true
 ---
 
-# BDM
+# 🦸 BDM
 
 BUSINESS DEVELOPMENT MANAGER
 
@@ -71,7 +71,7 @@ Raised Sale 500 SOL |      500 x 1%   = 5 SOL
 
 ### <mark style="color:red;">How to be a Listing Agent...</mark>
 
-1. Join [@RogerPad\_Sales](https://t.me/RogerPad\_Sales)  (You must request to join)
+1. Join [@RogerPad\_Sales](https://t.me/RogerPad_Sales)  (You must request to join)
 2. Please post your desire and bio.
 3. Join Main Chat [@rogerpadportal ](https://t.me/rogerpadportal)and be active.
-4. Wait for approval. (You can always reach out to CEO at : [RogerPad\_CEO](https://t.me/rogerpad\_ceo)
+4. Wait for approval. (You can always reach out to CEO at : [RogerPad\_CEO](https://t.me/rogerpad_ceo)

@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Diamond Ranked Callers
+# 💎 Diamond Ranked Callers
 
 ## Verified Callers in #Diamond Rank
 
