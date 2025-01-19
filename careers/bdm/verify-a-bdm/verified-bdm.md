@@ -22,4 +22,4 @@ VERIFIED BDM.
 
 #### 1. @[SaimListing](https://t.me/SaimListing)
 
-#### 2.&#x20;
+#### 2.  [all verified callers ](../../../partners/marketing-partners/verified-marketers/)
