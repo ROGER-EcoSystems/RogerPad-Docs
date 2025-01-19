@@ -12,4 +12,4 @@ However, the success of your project also depends significantly on its inherent 
 
 These callers have done a tremendous job supporting our launchpad, and we highly recommend utilizing their services. For more detailed information on our selection criteria and the methods we use to verify our marketers, please refer to the upcoming pages. This will provide you with a deeper understanding of our processes and how we ensure the excellence of our marketing team.
 
-To be Verified: [Please check ](../be-a-verified-partner/)
+To be Verified: [Please check ](be-a-verified-marketer/)
