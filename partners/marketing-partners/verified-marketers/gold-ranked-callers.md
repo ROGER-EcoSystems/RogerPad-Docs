@@ -12,7 +12,7 @@
 > **Disclaimer:**\
 > RogerPad serves as a platform to connect developers with Gold Callers but does not take responsibility for decisions or outcomes arising from such collaborations. Developers are advised to conduct thorough due diligence and make informed decisions when partnering with Callers.
 
-## 1. Who Dis ( Verified Telegram/Twitter Caller)
+## &#x20;Who Dis ( Verified Telegram/Twitter Caller)
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-07 095713.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -23,7 +23,7 @@ Owner: [@Titan6964](https://t.me/Titan6964)
 
 
 
-## 2. BIG BANG CALLS
+## BIG BANG CALLS
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-17 165148.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -35,3 +35,12 @@ X: [https://x.com/Big\_Bang\_X ](https://x.com/Big_Bang_X)
 
 CONTACT: [@Farhad\_Loyal](https://t.me/Farhad_Loyal)
 
+
+
+## GEORGIA SERVICES
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-12 142744.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+Private Link: [https://t.me/+\_-XPRZaeayhlNGM0 ](https://t.me/+_-XPRZaeayhlNGM0)
+
+Contact: [@Georgia333](https://t.me/Georgia333)
