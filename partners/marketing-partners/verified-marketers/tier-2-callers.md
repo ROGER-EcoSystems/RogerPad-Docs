@@ -1,4 +1,4 @@
-# Tier 2 Callers
+# 2️⃣ Tier 2 Callers
 
 
 
@@ -83,7 +83,7 @@ CONTACT: [@dahai6518](https://t.me/dahai6518)
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-18 120531.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
-MAIN CHAT: [https://t.me/Teslacallsofficia](https://t.me/Teslacallsofficia)l&#x20;
+MAIN CHAT: [https://t.me/Teslacallsofficial](https://t.me/Teslacallsofficial)
 
 X: [https://x.com/TeslaCalls100x ](https://x.com/TeslaCalls100x)
 
