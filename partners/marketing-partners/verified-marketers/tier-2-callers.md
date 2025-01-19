@@ -33,7 +33,7 @@ CONTACT: [@Crypto190333](https://t.me/Crypto190333)
 
 
 
-## CHINESE APES
+## 3. CHINESE APES
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 201035.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
@@ -43,10 +43,48 @@ CONTACT: [@ChineseApesOwner](https://t.me/ChineseApesOwner)
 
 
 
-## OWL CALLS
+## 4. OWL CALLS
 
 <figure><img src="../../../.gitbook/assets/IMAGE 2025-01-16 201231.jpeg" alt="" width="160"><figcaption></figcaption></figure>
 
 MAIN CHANNEL: [https://t.me/CryptoOWLcalls ](https://t.me/CryptoOWLcalls)
 
 CONTACT: [@diy246](https://t.me/diy246)
+
+
+
+## 5. D GROUP GEMS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-17 221034.jpeg" alt="" width="188"><figcaption></figcaption></figure>
+
+CHANNEL: [https://t.me/DGroup\_Channel ](https://t.me/DGroup_Channel)
+
+MAIN CHAT: [https://t.me/DGroup\_Gems ](https://t.me/DGroup_Gems)
+
+X: [https://x.com/Dgroup\_Gems](https://x.com/Dgroup_Gems)
+
+CONTACT: [@Mai\_ThanhVN](https://t.me/Mai_ThanhVN)
+
+
+
+## 6. SING CALL (GEMHAI)
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-18 103157.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+Channel: [https://t.me/haiwaitgo ](https://t.me/haiwaitgo)
+
+Community:[ https://t.me/gemhaiwai ](https://t.me/gemhaiwai)
+
+CONTACT: [@dahai6518](https://t.me/dahai6518)
+
+
+
+## 7. TESLA CALLS
+
+<figure><img src="../../../.gitbook/assets/IMAGE 2025-01-18 120531.jpeg" alt="" width="160"><figcaption></figcaption></figure>
+
+MAIN CHAT: [https://t.me/Teslacallsofficia](https://t.me/Teslacallsofficia)l&#x20;
+
+X: [https://x.com/TeslaCalls100x ](https://x.com/TeslaCalls100x)
+
+CONTACT: [@Tesla\_Owner1](https://t.me/Tesla_Owner1)
