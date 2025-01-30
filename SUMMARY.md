@@ -186,6 +186,7 @@
   * [Edit a Current Sale Pool](developers-corner/editing-a-sales-pool-by-developers/edit-a-current-sale-pool.md)
   * [Set Whitelisted Addresses](developers-corner/editing-a-sales-pool-by-developers/set-whitelisted-addresses.md)
   * [End Whitelist](developers-corner/editing-a-sales-pool-by-developers/end-whitelist.md)
+* [Current Deals](developers-corner/current-deals.md)
 
 ## 🟩 INVESTORS' CORNER
 
