@@ -77,6 +77,7 @@
     * [Other Services](partners/marketing-partners/service-providers/other-services/README.md)
       * [Press Releases](partners/marketing-partners/service-providers/other-services/press-releases.md)
       * [TRENDING & LISTING SERVICES](partners/marketing-partners/service-providers/other-services/trending-and-listing-services.md)
+      * [Shill/Raid](partners/marketing-partners/service-providers/other-services/shill-raid.md)
   * [Listed Marketers](partners/marketing-partners/listed-marketers.md)
 * [🦸 BDM](partners/bdm/README.md)
   * [Verified Listing Managers](partners/bdm/verified-listing-managers.md)
