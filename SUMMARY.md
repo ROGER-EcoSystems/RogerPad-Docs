@@ -86,7 +86,7 @@
 ## SRVICE FEES
 
 * [💲 Service Fees](srvice-fees/service-fees/README.md)
-  * [🆚 EARLY BIRD SPECIAL](srvice-fees/service-fees/early-bird-special.md)
+  * [🆚 EARLY BIRD SPECIAL](srvice-fees/service-fees/launch-special.md)
   * [💲 Special Rates](srvice-fees/service-fees/special-rates.md)
   * [💲 Regular Service Fees](srvice-fees/service-fees/regular-service-fees.md)
 
