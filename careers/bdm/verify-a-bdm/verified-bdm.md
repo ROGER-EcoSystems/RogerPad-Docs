@@ -1,25 +1,17 @@
 ---
 description: >-
   Following the list of all verified BDM of RogerPad.  Be careful, in case of
-  any doubt, reach out to the CEO directly.
+  any doubt, reach out to the COO directly.
 ---
 
 # Verified BDM
 
-**CEO:**
+**COO:**
 
-&#x20;Telegram: [@rogerpad](https://t.me/rogerpad)
+&#x20;Telegram: [t.me/rogerpad\_coo](https://t.me/rogerpad_coo)
 
-In chat: [https://t.me/PurrPaws\_Official/7256](https://t.me/PurrPaws_Official/7256)
+In chat: [t.me/roger\_call](https://t.me/roger_Call)
 
 email: [rogerlaunchpad@gmail.com](mailto:rogerlaunchpad@gmail.com)
 
-X:[ @rogerpad\_main](https://x.com/rogerpad_main)
-
-
-
-VERIFIED BDM.
-
-#### 1. @[SaimListing](https://t.me/SaimListing)
-
-#### 2.  [all verified callers ](../../../partners/marketing-partners/verified-marketers/)
+X:[ @rogerpad\_mai](https://x.com/rogerpad_main)n
