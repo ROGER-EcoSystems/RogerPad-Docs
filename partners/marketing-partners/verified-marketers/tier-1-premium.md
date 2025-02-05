@@ -1,8 +1,9 @@
 ---
 description: rogerpad.finance
+hidden: true
 ---
 
-# Tier 1 Premium
+# 1️⃣ Tier 1 Premium
 
 ## <mark style="color:green;">TIER 1 VERIFIED Premium CALLERS</mark>
 

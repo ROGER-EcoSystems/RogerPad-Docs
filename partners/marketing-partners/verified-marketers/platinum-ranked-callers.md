@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🥈 Platinum Ranked Callers
 
 ## Verified Callers in #Platinum Rank

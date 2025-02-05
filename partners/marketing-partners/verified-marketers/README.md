@@ -13,3 +13,9 @@ However, the success of your project also depends significantly on its inherent 
 These callers have done a tremendous job supporting our launchpad, and we highly recommend utilizing their services. For more detailed information on our selection criteria and the methods we use to verify our marketers, please refer to the upcoming pages. This will provide you with a deeper understanding of our processes and how we ensure the excellence of our marketing team.
 
 To be Verified: [Please check ](../be-a-verified-partner/)
+
+
+
+{% hint style="info" %}
+We will not list a caller to our so called Tier Verified caller list like other launchpads, unless they are proved to be worth.  Reach out to [t.me/rogerpad\_coo](https://tme/rogerpad_coo) if you believe you are a caller who has what titakes to be lsited as a verified caller.
+{% endhint %}

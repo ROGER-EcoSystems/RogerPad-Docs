@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🥇 GOLD Ranked Callers
 
 <figure><img src="../../../.gitbook/assets/Gold Rank PNG.png" alt="" width="375"><figcaption></figcaption></figure>
