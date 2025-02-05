@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # TRENDING & LISTING SERVICES
 
 This page is for miscellaneous needed services that will enable your crypto project to next level.
