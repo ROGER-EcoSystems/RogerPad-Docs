@@ -53,9 +53,10 @@
 * [ROGER NFT](roger-nft/roger-nft/README.md)
   * [Why Own a Roger NFT?](roger-nft/roger-nft/why-own-a-roger-nft.md)
   * [FEATURES](roger-nft/roger-nft/features.md)
-  * [Benefits](roger-nft/roger-nft/benefits.md)
+  * [Benefits](roger-nft/roger-nft/use-cases.md)
   * [ROGER NFT Innovation:](roger-nft/roger-nft/roger-nft-innovation.md)
   * [SUPPLY AND PRICING](roger-nft/roger-nft/supply-and-pricing.md)
+  * [Exclusive Offer](roger-nft/roger-nft/exclusive-offer.md)
 
 ## PARTNERS
 
