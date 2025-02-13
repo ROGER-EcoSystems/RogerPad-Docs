@@ -56,7 +56,7 @@
   * [Benefits](roger-nft/roger-nft/use-cases.md)
   * [ROGER NFT Innovation:](roger-nft/roger-nft/roger-nft-innovation.md)
   * [SUPPLY AND PRICING](roger-nft/roger-nft/supply-and-pricing.md)
-  * [Exclusive Offer](roger-nft/roger-nft/exclusive-offer.md)
+* [Exclusive Offer](roger-nft/exclusive-offer.md)
 
 ## PARTNERS
 
