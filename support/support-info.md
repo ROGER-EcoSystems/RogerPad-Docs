@@ -20,7 +20,7 @@ COO:  [@rogerpad](https://t.me/rogerpad)[\_COO](https://t.me/rogerpad_coo)
 
 Website: [https://rogerpad.finance](https://rogerpad.finance)
 
-Main Chat (TG): [https://t.me/rogere](https://t.me/rogerecosystem)[\_call](https://t.me/roger_call)
+Main Chat (TG):[ https://t.me/roger\_call](https://t.me/roger_call)
 
 Main Twitter: [https://x.com/rogerpad\_main](https://x.com/rogerpad_main)
 
