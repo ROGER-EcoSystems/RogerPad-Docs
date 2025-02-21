@@ -8,7 +8,7 @@ description: >-
 
 Email:  [support@rogerpad.finance](mailto:support@rogerpad.finance)
 
-CEO:  [@rogerpad](https://t.me/rogerpad)
+COO:  [@rogerpad](https://t.me/rogerpad)[\_COO](https://t.me/rogerpad_coo)
 
 ### SUPPORT
 
@@ -20,7 +20,7 @@ CEO:  [@rogerpad](https://t.me/rogerpad)
 
 Website: [https://rogerpad.finance](https://rogerpad.finance)
 
-Main Chat (TG): [https://t.me/rogerecosystem](https://t.me/rogerecosystem)
+Main Chat (TG): [https://t.me/rogere](https://t.me/rogerecosystem)[\_call](https://t.me/roger_call)
 
 Main Twitter: [https://x.com/rogerpad\_main](https://x.com/rogerpad_main)
 
@@ -32,4 +32,4 @@ PurrPaws Website: [https://purrpaws.xyz](https://purrpaws.xyz)
 
 PurrPaws Chat (TG): [https://purrpaws\_official](https://purrpaws_official)
 
-Contact CEO (on emergency only): [https://t.me/rogerpad](https://t.me/rogerpad)
+Contact CEO (on emergency only): [@rogerpad\_COO](https://t.me/rogerpad_coo)
